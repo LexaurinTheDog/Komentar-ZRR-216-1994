@@ -78,7 +78,7 @@ ZRR výslovně neřeší:
 
 - *NS* [23 Cdo 476/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBC03B69F481963BC1258A4C001601AD?openDocument) — 19. 7. 2023, kat. A
   > „Rozhodčí smlouvu lze platně uzavřít i o sporech z nekalé soutěže"
-- *NS* [29 Cdo 3309/2015](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_3309_2015.txt) — 27. 10. 2015, kat. A
+- *NS* [29 Cdo 3309/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01EA19F606325387C1257F3500204109?openDocument) — 27. 10. 2015, kat. A
   > „Žalobce, na kterého byla směnka indosována po protestu pro neplacení nebo po uplynutí lhůty k protestu, je jakožto právní nástupce původního věřitele vázán rozhodčí smlouvou uzavřenou tímto věřitelem. Věcně příslušnými k projednání žaloby o zrušení rozhodčího nálezu, jímž bylo rozhodnuto o zaplacení směnky, jsou krajské soudy"
 
 #### Arbitrabilita — věcný rozsah (odst. 1 a 2)
@@ -646,7 +646,7 @@ Stálý rozhodčí soud nebo rozhodce je povinen na žalobě **vyznačit den doj
 
 - *NS* [23 Cdo 4461/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/043A6986CEE02BF1C125828600475EDC?openDocument) — 12. 2. 2018, kat. A
   > „Podáním návrhu na zahájení rozhodčího řízení u stálého rozhodčího soudu se žalobce podřizuje pravidlům vydaným tímto stálým rozhodčím soudem, podle nichž se zaplacený poplatek nevrací"
-- *NS* [20 Cdo 3284/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_3284_2008.txt) — 31. 8. 2010, kat. A
+- *NS* [20 Cdo 3284/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E49414B7658E266C1257A4E0065B928?openDocument) — 31. 8. 2010, kat. A
   > „Není-li uzavřena rozhodčí smlouva, není vydaný rozhodčí nález způsobilým exekučním titulem bez zřetele k tomu, že povinný v rozhodčím řízení neexistenci rozhodčí smlouvy nenamítl"
 - *NS* [29 Cdo 1899/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC8FC6B450321B4C1257A4E00671995?openDocument) — 25. 2. 2010, kat. A
   > „Rozhodčí soud při Hospodářské komoře České republiky a Agrární komoře České republiky je právnickou osobou. Usnesením, jímž rozhodčí soud (rozhodce) rozhodl o nedostatku své pravomoci (§ 15 odst. 1 zákona č. 216/1994 Sb., ve znění pozdějších předpisů), je soud vázán"
@@ -1499,7 +1499,7 @@ Důsledky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 3284/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2010%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2010&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_3284_2008.txt) — 31. 8. 2010, kat. A
+- *NS* [20 Cdo 3284/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E49414B7658E266C1257A4E0065B928?openDocument) — 31. 8. 2010, kat. A
   > „Není-li uzavřena rozhodčí smlouva, není vydaný rozhodčí nález způsobilým exekučním titulem bez zřetele k tomu, že povinný v rozhodčím řízení neexistenci rozhodčí smlouvy nenamítl"
 
 #### Alternativní obranná cesta
