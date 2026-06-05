@@ -11,6 +11,10 @@ AI komentář **výhradně z lokálních materiálů**, **bez konkrétních spzn
 ## Vazby
 [ZMPS 91/2012](/home/vojtech/Komentar-ZMPS-91-2012/) §§ 117-122 (mezinárodní arbitráž), [OSŘ 99/1963](/home/vojtech/Komentar-OSR-99-1963/) § 274 odst. 1 písm. f (exekuční titul), [OZ 89/2012](/home/vojtech/Komentar-OZ-89-2012/) (smluvní právo), [EŘ 120/2001](/home/vojtech/Komentar-ER-120-2001/) (výkon).
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
