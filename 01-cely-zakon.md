@@ -112,10 +112,10 @@ ZRR výslovně neřeší:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 476/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBC03B69F481963BC1258A4C001601AD?openDocument) — 19. 7. 2023, kat. A
+- *NS* [23 Cdo 476/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBC03B69F481963BC1258A4C001601AD?openDocument) — kat. A, 19. 7. 2023
   > „Rozhodčí smlouvu lze platně uzavřít i o sporech z nekalé soutěže"
-- *NS* [29 Cdo 3309/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01EA19F606325387C1257F3500204109?openDocument) — 27. 10. 2015, kat. A
-  > „Žalobce, na kterého byla směnka indosována po protestu pro neplacení nebo po uplynutí lhůty k protestu, je jakožto právní nástupce původního věřitele vázán rozhodčí smlouvou uzavřenou tímto věřitelem. Věcně příslušnými k projednání žaloby o zrušení rozhodčího nálezu, jímž bylo rozhodnuto o zaplacení směnky, jsou krajské soudy"
+- *NS* [29 Cdo 3309/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/01EA19F606325387C1257F3500204109?openDocument) — kat. A, 27. 10. 2015
+  > „Žalobce, na kterého byla směnka indosována po protestu pro neplacení nebo po uplynutí lhůty k protestu, je jakožto právní nástupce původního věřitele vázán rozhodčí smlouvou uzavřenou tímto věřitelem. …"
 
 #### Arbitrabilita — věcný rozsah (odst. 1 a 2)
 
@@ -539,14 +539,14 @@ Mlčenlivost rozhodce **neruší** jeho povinnost ohlásit závažný trestný �
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 3972/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D47D9EDE5FE6178C1258655003444EC?openDocument) — 18. 11. 2020, kat. A
-  > „Nedostatek nezávislosti či nestrannosti rozhodce nebo osoby určující rozhodce nezpůsobuje sám o sobě neplatnost samotné rozhodčí doložky uzavřené mezi podnikateli v době od 1. 1. 2014. Nedostatek nezávislosti či nestrannosti osoby, která podle takové rozhodčí doložky má určit rozhodce, se nepresumuje, ale je předmětem dokazování to platí i tehdy, jde-li i o tzv. arbitrážní centra"
-- *NS* [31 Cdo 3534/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CF1BD4A28B3A6B0C125852A004A7057?openDocument) — 12. 2. 2020, kat. A
-  > „Týká-li se důvod neplatnosti toliko části rozhodčí doložky, již lze oddělit od zbytku rozhodčí doložky, je neplatná pouze (důvodem neplatnosti dotčená) část rozhodčí doložky"
-- *NS* [26 Cdo 3662/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3717D7EDE424FF83C1257E7E0025E040?openDocument) — 28. 4. 2015, kat. A
-  > „Pro posouzení nezávislosti a nestrannosti třetí osoby pověřené určením rozhodce se uplatní stejná pravidla jako pro nezávislost a nestrannost rozhodců. V úvahu přitom připadá jakýkoliv druh závislosti, zejména závislost materiální, stejně jako zájem na výsledku projednávání sporu"
-- *NS* [31 Cdo 1945/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87312C808746B5D2C1257A4E006568D2?openDocument) — 11. 5. 2011, kat. A
+- *NS* [31 Cdo 1945/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87312C808746B5D2C1257A4E006568D2?openDocument) — kat. A, 11. 5. 2011
   > „Neobsahuje-li rozhodčí smlouva přímé určení rozhodce ad hoc, resp. konkrétní způsob jeho určení, a odkazuje-li na ,,rozhodčí řád" vydaný právnickou osobou, která není stálým rozhodčím soudem zřízeným na základě zákona, je taková rozhodčí smlouva neplatná podle § 39 obč. zák"
+- *NS* [23 Cdo 3972/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2D47D9EDE5FE6178C1258655003444EC?openDocument) — kat. A, 18. 11. 2020
+  > „Nedostatek nezávislosti či nestrannosti rozhodce nebo osoby určující rozhodce nezpůsobuje sám o sobě neplatnost samotné rozhodčí doložky uzavřené mezi podnikateli v době od 1. 1. 2014. Nedostatek nezávislosti či nestrannosti osoby, která podle takové rozhodčí doložky má určit rozhodce, se nepresumuje, ale je předmětem dokazování to platí i tehdy, jde-li i o tzv. arbitrážní centra"
+- *NS* [26 Cdo 3662/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3717D7EDE424FF83C1257E7E0025E040?openDocument) — kat. A, 28. 4. 2015
+  > „Pro posouzení nezávislosti a nestrannosti třetí osoby pověřené určením rozhodce se uplatní stejná pravidla jako pro nezávislost a nestrannost rozhodců. V úvahu přitom připadá jakýkoliv druh závislosti, zejména závislost materiální, stejně jako zájem na výsledku projednávání sporu"
+- *NS* [31 Cdo 3534/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CF1BD4A28B3A6B0C125852A004A7057?openDocument) — kat. A, 12. 2. 2020
+  > „Týká-li se důvod neplatnosti toliko části rozhodčí doložky, již lze oddělit od zbytku rozhodčí doložky, je neplatná pouze (důvodem neplatnosti dotčená) část rozhodčí doložky"
 
 #### Autonomie stran a její limity (odst. 1)
 
@@ -616,14 +616,12 @@ Tento model je **lichý ze své podstaty** (3 rozhodci) a respektuje paritu stra
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 2193/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CBA79B4F3817678C1258A3E00160EED?openDocument) — 30. 8. 2023, kat. A
-  > „Důvod zamítnout návrh na zrušení rozhodčího nálezu podle § 33 zákona o rozhodčím řízení pro včasné neuplatnění není dán, jestliže straně, která se domáhá zrušení rozhodčího nálezu, nebylo zprostředkováno oznámení rozhodce rozhodčímu soudu o okolnostech, které by mohly vzbudit oprávněné pochybnosti o jeho nepodjatosti"
-- *NS* [23 Cdo 1337/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8616B32B104ADE02C125865500318FBB?openDocument) — 18. 11. 2020, kat. A
-  > „Porušení povinnosti rozhodce oznámit okolnost, která by mohla vzbudit oprávněné pochybnosti o jeho nepodjatosti, není samo o sobě důvodem pro zrušení rozhodčího nálezu. Důvodem pro zrušení rozhodčího nálezu může být skutečnost, že věc projednal a rozhodl vyloučený rozhodce"
-- *NS* [23 Cdo 3150/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/642FC8F265B39CEAC1257DA8006BF516?openDocument) — 30. 9. 2014, kat. A
+- *NS* [23 Cdo 3150/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/642FC8F265B39CEAC1257DA8006BF516?openDocument) — kat. A, 30. 9. 2014
   > „Princip nezávislého a nestranného rozhodování, jež je určující pro rozhodování soudců, se uplatní i pro rozhodování rozhodců. Běžná profesní spolupráce advokátů nemusí sama o sobě znamenat okolnost, která by vzbuzovala důvodné pochybnosti o případném poměru rozhodce z řad advokátů k jinému advokátovi zastupujícího účastníka rozhodčího řízení. Důvodné pochybnosti o poměru rozhodce z řad advokátů k jinému advokátovi zastupujícího účastníka rozhodčího řízení může vyvolat spolupráce nikoli jednorázová, ale dlouhodobá, mající povahu určité ekonomické závislosti, např. spolupráce ve společné advokátní kanceláři"
-- *NS* [29 Cdo 5146/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36589873C1E163D4C1257A4E0065881A?openDocument) — 21. 6. 2012, kat. A
-  > „Usnesení, jímž soud nařídil předběžné opatření, kterým žalovanému zakázal nakládat s určitou věcí, nebrání tomu, aby rozhodčí soud v řízení vedeném proti témuž žalovanému vydal rozhodčí nález, kterým uložil žalovanému danou věc vydat"
+- *NS* [23 Cdo 1337/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8616B32B104ADE02C125865500318FBB?openDocument) — kat. A, 18. 11. 2020
+  > „Porušení povinnosti rozhodce oznámit okolnost, která by mohla vzbudit oprávněné pochybnosti o jeho nepodjatosti, není samo o sobě důvodem pro zrušení rozhodčího nálezu. Důvodem pro zrušení rozhodčího nálezu může být skutečnost, že věc projednal a rozhodl vyloučený rozhodce"
+- *NS* [23 Cdo 2193/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CBA79B4F3817678C1258A3E00160EED?openDocument) — kat. A, 30. 8. 2023
+  > „Důvod zamítnout návrh na zrušení rozhodčího nálezu podle § 33 zákona o rozhodčím řízení pro včasné neuplatnění není dán, jestliže straně, která se domáhá zrušení rozhodčího nálezu, nebylo zprostředkováno oznámení rozhodce rozhodčímu soudu o okolnostech, které by mohly vzbudit oprávněné pochybnosti o jeho nepodjatosti"
 
 #### Test podjatosti (odst. 1)
 
@@ -702,8 +700,8 @@ Porušení oznamovací povinnosti je **samostatným důvodem pro vyloučení** r
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 4847/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B9EFCEDEA599523C1257A4E006692A9?openDocument) — 14. 10. 2010, kat. A
-  > „Řízení o jmenování rozhodce (předsedajícího, resp. třetího rozhodce) podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů je řízením podle tohoto zákona ve smyslu ustanovení § 41. Jestliže některá ze stran rozhodčího řízení podala po uplynutí třicetidenní lhůty podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů návrh na jmenování předsedajícího (třetího) rozhodce a tento návrh nevzala zpět, nemohou se již jmenovaní rozhodci (pokud se strany nedohodly jinak) účinně shodnout na osobě předsedajícího (třetího) rozhodce. Řízení o jmenování rozhodce podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů je řízením nesporným. Účastníky tohoto řízení jsou kromě navrhovatele (jímž může být pouze osoba uvedená v § 9 odst. 1 tohoto zákona) strany rozhodčího řízení, již jmenovaní rozhodci a osoba, která je v…"
+- *NS* [23 Cdo 4847/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B9EFCEDEA599523C1257A4E006692A9?openDocument) — kat. A, 14. 10. 2010
+  > „Řízení o jmenování rozhodce (předsedajícího, resp. třetího rozhodce) podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů je řízením podle tohoto zákona ve smyslu ustanovení § 41. Jestliže některá ze stran rozhodčího řízení podala po uplynutí třicetidenní lhůty podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů návrh na jmenování předsedajícího (třetího) rozhodce a tento návrh nevzala zpět, nemohou se již jmenovaní rozhodci (pokud se strany nedohodly jinak) účinně shodnout na osobě předsedajícího (třetího) rozhodce. Řízení o jmenování rozhodce podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů je řízením nesporným. … Rozhodnutí soudu o jmenování rozhodce je rozhodnutím ve věci samé"
 
 #### Soudní podpora rozhodčího řízení (odst. 1)
 
@@ -963,16 +961,14 @@ Soudní vyloučení je **konstitutivní** — od právní moci usnesení rozhodc
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 4461/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/043A6986CEE02BF1C125828600475EDC?openDocument) — 12. 2. 2018, kat. A
-  > „Podáním návrhu na zahájení rozhodčího řízení u stálého rozhodčího soudu se žalobce podřizuje pravidlům vydaným tímto stálým rozhodčím soudem, podle nichž se zaplacený poplatek nevrací"
-- *NS* [20 Cdo 676/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9393EAC5464F0E87C12580DC00207B07?openDocument) — 13. 12. 2016, kat. A
-  > „Vydal-li rozhodčí nález rozhodčí soud zřízený podle § 12 zákona č. 244/2002 Zbierky zákonov SR, nelze pouze na základě skutečnosti, že nejde o stálý rozhodčí soud ve smyslu § 13 zákona o rozhodčím řízení, odepřít výkon takového rozhodčího nálezu pro rozpor s veřejným pořádkem"
-- *NS* [31 Cdo 958/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8394D2A5DD17E388C1257BAC002E4DBB?openDocument) — 10. 7. 2013, kat. A
-  > „Byl-li rozhodce určen odkazem na „rozhodčí řád“ vydaný právnickou osobou, která není stálým rozhodčím soudem zřízeným na základě zákona, pak rozhodčí nález není způsobilým exekučním titulem ve smyslu § 40 odst. 1 písm. c) exekučního řádu, podle něhož by mohla být nařízena exekuce, jelikož rozhodce určený na základě absolutně neplatné rozhodčí doložky (§ 39 obč. zák.) neměl k vydání rozhodčího nálezu podle zákona o rozhodčím řízení pravomoc. Byla-li již exekuce v takovém případě přesto nařízena a zjistí-li soud (dodatečně) nedostatek pravomoci orgánu, který exekuční titul vydal, je třeba exekuci v každém jejím stádiu pro nepřípustnost podle § 268 odst. 1 písm. h) o. s. ř. zastavit"
-- *NS* [31 Cdo 1945/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87312C808746B5D2C1257A4E006568D2?openDocument) — 11. 5. 2011, kat. A
+- *NS* [31 Cdo 1945/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/87312C808746B5D2C1257A4E006568D2?openDocument) — kat. A, 11. 5. 2011
   > „Neobsahuje-li rozhodčí smlouva přímé určení rozhodce ad hoc, resp. konkrétní způsob jeho určení, a odkazuje-li na ,,rozhodčí řád" vydaný právnickou osobou, která není stálým rozhodčím soudem zřízeným na základě zákona, je taková rozhodčí smlouva neplatná podle § 39 obč. zák"
-- *NS* [29 Cdo 1899/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC8FC6B450321B4C1257A4E00671995?openDocument) — 25. 2. 2010, kat. A
-  > „Rozhodčí soud při Hospodářské komoře České republiky a Agrární komoře České republiky je právnickou osobou. Usnesením, jímž rozhodčí soud (rozhodce) rozhodl o nedostatku své pravomoci (§ 15 odst. 1 zákona č. 216/1994 Sb., ve znění pozdějších předpisů), je soud vázán"
+- *NS* [31 Cdo 958/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8394D2A5DD17E388C1257BAC002E4DBB?openDocument) — kat. A, 10. 7. 2013
+  > „Byl-li rozhodce určen odkazem na „rozhodčí řád“ vydaný právnickou osobou, která není stálým rozhodčím soudem zřízeným na základě zákona, pak rozhodčí nález není způsobilým exekučním titulem ve smyslu § 40 odst. 1 písm. c) exekučního řádu, podle něhož by mohla být nařízena exekuce, jelikož rozhodce určený na základě absolutně neplatné rozhodčí doložky (§ 39 obč. zák.) neměl k vydání rozhodčího nálezu podle zákona o rozhodčím řízení pravomoc. Byla-li již exekuce v takovém případě přesto nařízena a zjistí-li soud (dodatečně) nedostatek pravomoci orgánu, který exekuční titul vydal, je třeba exekuci v každém jejím stádiu pro nepřípustnost podle § 268 odst. 1 písm. h) o. s. ř. zastavit"
+- *NS* [23 Cdo 4461/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/043A6986CEE02BF1C125828600475EDC?openDocument) — kat. A, 12. 2. 2018
+  > „Podáním návrhu na zahájení rozhodčího řízení u stálého rozhodčího soudu se žalobce podřizuje pravidlům vydaným tímto stálým rozhodčím soudem, podle nichž se zaplacený poplatek nevrací"
+- *NS* [20 Cdo 676/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9393EAC5464F0E87C12580DC00207B07?openDocument) — kat. A, 13. 12. 2016
+  > „Vydal-li rozhodčí nález rozhodčí soud zřízený podle § 12 zákona č. 244/2002 Zbierky zákonov SR, nelze pouze na základě skutečnosti, že nejde o stálý rozhodčí soud ve smyslu § 13 zákona o rozhodčím řízení, odepřít výkon takového rozhodčího nálezu pro rozpor s veřejným pořádkem"
 
 #### Zákonný princip zřizování (odst. 1)
 
@@ -1148,12 +1144,12 @@ Stálý rozhodčí soud nebo rozhodce je povinen na žalobě **vyznačit den doj
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 4461/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/043A6986CEE02BF1C125828600475EDC?openDocument) — 12. 2. 2018, kat. A
-  > „Podáním návrhu na zahájení rozhodčího řízení u stálého rozhodčího soudu se žalobce podřizuje pravidlům vydaným tímto stálým rozhodčím soudem, podle nichž se zaplacený poplatek nevrací"
-- *NS* [20 Cdo 3284/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E49414B7658E266C1257A4E0065B928?openDocument) — 31. 8. 2010, kat. A
-  > „Není-li uzavřena rozhodčí smlouva, není vydaný rozhodčí nález způsobilým exekučním titulem bez zřetele k tomu, že povinný v rozhodčím řízení neexistenci rozhodčí smlouvy nenamítl"
-- *NS* [29 Cdo 1899/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC8FC6B450321B4C1257A4E00671995?openDocument) — 25. 2. 2010, kat. A
+- *ÚS* [I.ÚS 871/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-871-11_1) — nález, 17. 1. 2012
+  > „Ustanovení § 15 zákona č. 216/1994 Sb. … uvádí, že rozhodci jsou oprávněni zkoumat svoji pravomoc. … Z uvedeného ustanovení však v žádném případě nevyplývá, že otázku pravomoci již nelze zkoumat v exekučním řízení, neboť, respektive protože toto ustanovení má aplikační dosah pouze na probíhající rozhodčí řízení. … Lze tedy uzavřít, že účastník rozhodčího řízení nesmí být negativně dotčen rozhodčím nálezem, s jehož vydáním dopředu nesouhlasil, byť by v průběhu rozhodčího řízení byl pasivní a námitku nedostatku pravomoci rozhodce nenamítl"
+- *NS* [29 Cdo 1899/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC8FC6B450321B4C1257A4E00671995?openDocument) — kat. A, 25. 2. 2010
   > „Rozhodčí soud při Hospodářské komoře České republiky a Agrární komoře České republiky je právnickou osobou. Usnesením, jímž rozhodčí soud (rozhodce) rozhodl o nedostatku své pravomoci (§ 15 odst. 1 zákona č. 216/1994 Sb., ve znění pozdějších předpisů), je soud vázán"
+- *NS* [20 Cdo 3284/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E49414B7658E266C1257A4E0065B928?openDocument) — kat. A, 31. 8. 2010
+  > „Není-li uzavřena rozhodčí smlouva, není vydaný rozhodčí nález způsobilým exekučním titulem bez zřetele k tomu, že povinný v rozhodčím řízení neexistenci rozhodčí smlouvy nenamítl"
 
 #### Princip Kompetenz-Kompetenz (odst. 1)
 
@@ -1299,7 +1295,7 @@ V obou případech zůstávají původní účinky žaloby zachovány — stavě
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 1034/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/742E9D4886B46267C1257C2000426CDE?openDocument) — 30. 9. 2013, kat. A
+- *NS* [23 Cdo 1034/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/742E9D4886B46267C1257C2000426CDE?openDocument) — kat. A, 30. 9. 2013
   > „Dohodly-li si subjekty se sídlem v České republice, že jejich případný spor bude rozhodovat Mezinárodní rozhodčí soud při Mezinárodní obchodní komoře v Paříži s místem konání rozhodčího řízení ve Vídni v Rakousku, rozhodčí nález v takovém řízení vydaný není tuzemským rozhodčím nálezem a není tak dána pravomoc českých soudů pro řízení o jeho zrušení podle zákona č. 216/1994 Sb, o rozhodčím řízení a o výkonu rozhodčích nálezů. Na uvedeném nic nemění, že podle dohody stran se ústní jednání v rámci rozhodčího řízení konalo v Praze"
 
 #### Lex loci arbitri
@@ -2133,14 +2129,12 @@ U RS HKAK je institut přezkumu **velmi vzácný** — Řád ho zpravidla nepře
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 3737/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47AF8EADB4B5B398C125899D0030F40F?openDocument) — 29. 3. 2023, kat. A
-  > „I. Ujednání stanov spolku, která by uvnitř spolku na jedné straně zřizovala rozhodčí komisi, a na druhé straně stanovila, že rozhodnutí rozhodčí komise nepodléhají přezkumu v řízení o zrušení rozhodčího nálezu soudem a zastavení nařízeného výkonu rozhodnutí (ve smyslu § 31 až § 35 zákona č. 216/1994 Sb. ve znění pozdějších předpisů), odporují donucujícím ustanovením zákona. II. Úprava § 89 z. ř. s. umožňující upustit od nařízení jednání se uplatní toliko v řízení před soudem prvního stupně, nikoli v řízení odvolacím. III. Členství v rozhodčí komisi spolku je neslučitelné s výkonem funkce soudce"
-- *NS* [29 ICdo 72/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C283D74DCFF37BCC12583DE00246D96?openDocument) — 24. 10. 2018, kat. A
-  > „Rozhodčí nález je listinou, která je způsobilá doložit v insolvenčním řízení vykonatelnost pohledávky věřitele (§ 177 věta druhá insolvenčního zákona, ve znění účinném do 30. června 2017)"
-- *NS* [23 Cdo 4460/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DB2D76015813E253C1257F2A00366845?openDocument) — 30. 9. 2015, kat. A
+- *NS* [29 NSCR 29/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF106D80D4EC2739C1257A4E0064BE14?openDocument) — kat. A, 17. 2. 2011
+  > „I. Účinky právní moci soudního rozhodnutí, jež se projevují tím, že je již nelze napadnout odvoláním jako řádným opravným prostředkem (formální právní moc) a dále závazností výroku rozhodnutí a jeho nezměnitelností (materiální právní moc) zůstávají odkladem vykonatelnosti rozhodnutí nedotčeny. II. Pohledávku insolvenčního navrhovatele přiznanou pravomocným rozhodčím nálezem, který má účinky pravomocného soudního rozhodnutí, nelze označit za spornou (za nedoloženou v intencích § 105 insolvenčního zákona) jen proto, že probíhá řízení o zrušení rozhodčího nálezu, ve kterém soud povolil odklad vykonatelnosti rozhodčího nálezu. …"
+- *NS* [23 Cdo 4460/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DB2D76015813E253C1257F2A00366845?openDocument) — kat. A, 30. 9. 2015
   > „Nejde o překážku věci rozhodnuté, jestliže o stejné věci, týkající se stejného předmětu řízení a týchž osob, bylo již rozhodnuto rozhodčím nálezem vydaným rozhodcem, jenž neměl k vydání takového rozhodčího nálezu pravomoc"
-- *NS* [29 NSCR 29/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF106D80D4EC2739C1257A4E0064BE14?openDocument) — 17. 2. 2011, kat. A
-  > „I. Účinky právní moci soudního rozhodnutí, jež se projevují tím, že je již nelze napadnout odvoláním jako řádným opravným prostředkem (formální právní moc) a dále závazností výroku rozhodnutí a jeho nezměnitelností (materiální právní moc) zůstávají odkladem vykonatelnosti rozhodnutí nedotčeny. II. Pohledávku insolvenčního navrhovatele přiznanou pravomocným rozhodčím nálezem, který má účinky pravomocného soudního rozhodnutí, nelze označit za spornou (za nedoloženou v intencích § 105 insolvenčního zákona) jen proto, že probíhá řízení o zrušení rozhodčího nálezu, ve kterém soud povolil odklad vykonatelnosti rozhodčího nálezu. III. Ručitelské prohlášení vyššího územního samosprávného celku ve smyslu § 143 odst. 4 insolvenčního zákona se musí týkat všech dluhů právnické osoby a nemůže být vázáno na splnění podmínky"
+- *NS* [29 ICdo 72/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7C283D74DCFF37BCC12583DE00246D96?openDocument) — kat. A, 24. 10. 2018
+  > „Rozhodčí nález je listinou, která je způsobilá doložit v insolvenčním řízení vykonatelnost pohledávky věřitele (§ 177 věta druhá insolvenčního zákona, ve znění účinném do 30. června 2017)"
 
 #### Doručení a doložka právní moci (odst. 1)
 
@@ -2284,10 +2278,8 @@ Třetí osoby právo nahlížet **nemají** — to odpovídá principu **neveře
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [10 Co 628/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/437061298248AE31C1257C5A0054E56A?openDocument) — 31. 7. 2012, kat. A
+- *NS* [10 Co 628/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/437061298248AE31C1257C5A0054E56A?openDocument) — kat. A, 31. 7. 2012
   > „Doručení rozhodčího nálezu vyvěšením na úřední desce rozhodce nenahrazuje zákonem předpokládané vyvěšení na úřední desce soudu (§ 50l o. s. ř.)"
-- *NS* [29 Cdo 5146/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36589873C1E163D4C1257A4E0065881A?openDocument) — 21. 6. 2012, kat. A
-  > „Usnesení, jímž soud nařídil předběžné opatření, kterým žalovanému zakázal nakládat s určitou věcí, nebrání tomu, aby rozhodčí soud v řízení vedeném proti témuž žalovanému vydal rozhodčí nález, kterým uložil žalovanému danou věc vydat"
 
 #### Subsidiární vztah k OSŘ
 
@@ -2383,20 +2375,14 @@ ZRR výslovně upravuje řadu otázek — zejména:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 2848/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/23BC8E3297B5F487C1258B17004D4D9D?openDocument) — 17. 4. 2024, kat. A
+- *ÚS* [I.ÚS 3227/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3227-07_1) — nález, 8. 3. 2011
+  > „Porušení kogentního ustanovení § 18 ZRŘ naplňuje důvod zrušení rozhodčího nálezu obsažený v § 31 písm. e) ZRŘ; nebyla-li zachována rovnost zbraní stran nebo nebyla-li straně dána plná příležitost k uplatnění jejích práv, bezpochyby tím straně nebyla poskytnuta možnost věc před rozhodci projednat ve smyslu naposled citovaného ustanovení. K upření plné možnosti uplatnění práv strany může dojít i nepředvídatelným postupem rozhodce …"
+- *NS* [23 Cdo 2848/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/23BC8E3297B5F487C1258B17004D4D9D?openDocument) — kat. A, 17. 4. 2024
   > „Návrhem na zrušení rozhodčího nálezu podle § 31 písm. e) zákona o rozhodčím řízení lze napadnout rozhodčí nález též jen ve výroku o náhradě nákladů řízení"
-- *NS* [23 Cdo 1337/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8616B32B104ADE02C125865500318FBB?openDocument) — 18. 11. 2020, kat. A
+- *NS* [23 Cdo 1337/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8616B32B104ADE02C125865500318FBB?openDocument) — kat. A, 18. 11. 2020
   > „Porušení povinnosti rozhodce oznámit okolnost, která by mohla vzbudit oprávněné pochybnosti o jeho nepodjatosti, není samo o sobě důvodem pro zrušení rozhodčího nálezu. Důvodem pro zrušení rozhodčího nálezu může být skutečnost, že věc projednal a rozhodl vyloučený rozhodce"
-- *NS* [23 Cdo 297/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD784FA11EE402B9C1257EB30046E29A?openDocument) — 2. 7. 2015, kat. A
-  > „Námitka neplatnosti rozhodčí smlouvy uplatněná právnickou osobou sice při prvním úkonu v rozhodčím řízení, avšak po uplynutí lhůty podle § 33 zákona o rozhodčím řízení, není včasná, i když se tento účastník nedozvěděl o obsahu výzvy k vyjádření doručené náhradním způsobem"
-- *NS* [23 Cdo 1112/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBA7CF4A91905257C1257C52004DFDD4?openDocument) — 28. 11. 2013, kat. A
+- *NS* [23 Cdo 1112/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DBA7CF4A91905257C1257C52004DFDD4?openDocument) — kat. A, 28. 11. 2013
   > „Rozhodčí smlouva, uzavřená do 31. 3. 2012, která pro řešení sporů mezi účastníky určuje jediného rozhodce, jenž bude jmenován předsedou dozorčí rady právnické osoby, která není stálým rozhodčím soudem zřízeným na základě zákona, je podle ustanovení § 39 obč. zák. neplatná"
-- *NS* [29 Cdo 5146/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/36589873C1E163D4C1257A4E0065881A?openDocument) — 21. 6. 2012, kat. A
-  > „Usnesení, jímž soud nařídil předběžné opatření, kterým žalovanému zakázal nakládat s určitou věcí, nebrání tomu, aby rozhodčí soud v řízení vedeném proti témuž žalovanému vydal rozhodčí nález, kterým uložil žalovanému danou věc vydat"
-- *NS* [23 Cdo 3728/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/639E8E2B6E41525DC1257A4E00678F93?openDocument) — 9. 5. 2012, kat. A
-  > „Ustanovení § 32 zákona č. 216/1994 Sb. ve znění před novelou provedenou zákonem č. 19/2012 Sb. je významné jen z hlediska posouzení včasnosti podání samotného návrhu na zrušení rozhodčího nálezu. Nemůže představovat omezení procesních práv žalobce doplňovat rozhodující skutečnosti obsahující další důvody zrušení rozhodčího nálezu podle ustanovení § 31 citovaného zákona v průběhu řízení. Omezení práva je doplňovat mohou představovat pouze zákonné procesní limity podle občanského soudního řádu (např. koncentrace řízení)"
-- *NS* [29 Cdo 1899/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8AC8FC6B450321B4C1257A4E00671995?openDocument) — 25. 2. 2010, kat. A
-  > „Rozhodčí soud při Hospodářské komoře České republiky a Agrární komoře České republiky je právnickou osobou. Usnesením, jímž rozhodčí soud (rozhodce) rozhodl o nedostatku své pravomoci (§ 15 odst. 1 zákona č. 216/1994 Sb., ve znění pozdějších předpisů), je soud vázán"
 
 #### Taxativní katalog důvodů
 
@@ -2523,12 +2509,10 @@ Důvody lze klasifikovat do tří kategorií podle závažnosti a povahy:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 2848/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/23BC8E3297B5F487C1258B17004D4D9D?openDocument) — 17. 4. 2024, kat. A
-  > „Návrhem na zrušení rozhodčího nálezu podle § 31 písm. e) zákona o rozhodčím řízení lze napadnout rozhodčí nález též jen ve výroku o náhradě nákladů řízení"
-- *NS* [23 Cdo 3728/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/639E8E2B6E41525DC1257A4E00678F93?openDocument) — 9. 5. 2012, kat. A
+- *NS* [23 Cdo 3728/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/639E8E2B6E41525DC1257A4E00678F93?openDocument) — kat. A, 9. 5. 2012
   > „Ustanovení § 32 zákona č. 216/1994 Sb. ve znění před novelou provedenou zákonem č. 19/2012 Sb. je významné jen z hlediska posouzení včasnosti podání samotného návrhu na zrušení rozhodčího nálezu. Nemůže představovat omezení procesních práv žalobce doplňovat rozhodující skutečnosti obsahující další důvody zrušení rozhodčího nálezu podle ustanovení § 31 citovaného zákona v průběhu řízení. Omezení práva je doplňovat mohou představovat pouze zákonné procesní limity podle občanského soudního řádu (např. koncentrace řízení)"
-- *NS* [29 NSCR 29/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF106D80D4EC2739C1257A4E0064BE14?openDocument) — 17. 2. 2011, kat. A
-  > „I. Účinky právní moci soudního rozhodnutí, jež se projevují tím, že je již nelze napadnout odvoláním jako řádným opravným prostředkem (formální právní moc) a dále závazností výroku rozhodnutí a jeho nezměnitelností (materiální právní moc) zůstávají odkladem vykonatelnosti rozhodnutí nedotčeny. II. Pohledávku insolvenčního navrhovatele přiznanou pravomocným rozhodčím nálezem, který má účinky pravomocného soudního rozhodnutí, nelze označit za spornou (za nedoloženou v intencích § 105 insolvenčního zákona) jen proto, že probíhá řízení o zrušení rozhodčího nálezu, ve kterém soud povolil odklad vykonatelnosti rozhodčího nálezu. III. Ručitelské prohlášení vyššího územního samosprávného celku ve smyslu § 143 odst. 4 insolvenčního zákona se musí týkat všech dluhů právnické osoby a nemůže být vázáno na splnění podmínky"
+- *NS* [29 NSCR 29/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF106D80D4EC2739C1257A4E0064BE14?openDocument) — kat. A, 17. 2. 2011
+  > „I. Účinky právní moci soudního rozhodnutí, jež se projevují tím, že je již nelze napadnout odvoláním jako řádným opravným prostředkem (formální právní moc) a dále závazností výroku rozhodnutí a jeho nezměnitelností (materiální právní moc) zůstávají odkladem vykonatelnosti rozhodnutí nedotčeny. II. Pohledávku insolvenčního navrhovatele přiznanou pravomocným rozhodčím nálezem, který má účinky pravomocného soudního rozhodnutí, nelze označit za spornou (za nedoloženou v intencích § 105 insolvenčního zákona) jen proto, že probíhá řízení o zrušení rozhodčího nálezu, ve kterém soud povolil odklad vykonatelnosti rozhodčího nálezu. …"
 
 #### Lhůta tří měsíců (odst. 1)
 
@@ -2601,14 +2585,14 @@ Soudní rozhodnutí o odložení je **diskreční** — soud zvažuje vyváženo
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 2193/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CBA79B4F3817678C1258A3E00160EED?openDocument) — 30. 8. 2023, kat. A
-  > „Důvod zamítnout návrh na zrušení rozhodčího nálezu podle § 33 zákona o rozhodčím řízení pro včasné neuplatnění není dán, jestliže straně, která se domáhá zrušení rozhodčího nálezu, nebylo zprostředkováno oznámení rozhodce rozhodčímu soudu o okolnostech, které by mohly vzbudit oprávněné pochybnosti o jeho nepodjatosti"
-- *NS* [23 Cdo 297/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD784FA11EE402B9C1257EB30046E29A?openDocument) — 2. 7. 2015, kat. A
-  > „Námitka neplatnosti rozhodčí smlouvy uplatněná právnickou osobou sice při prvním úkonu v rozhodčím řízení, avšak po uplynutí lhůty podle § 33 zákona o rozhodčím řízení, není včasná, i když se tento účastník nedozvěděl o obsahu výzvy k vyjádření doručené náhradním způsobem"
-- *NS* [33 Cdo 1201/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B4D2A21F68AD3C6FC1257BB10026B59A?openDocument) — 20. 6. 2013, kat. A
-  > „Jde-li o smlouvu o spotřebitelském úvěru, nelze posuzovat práva a povinnosti z této smlouvy ,odděleně od použitých zajišťovacích prostředků (dohody o srážkách ze mzdy, smluvní pokuty a ,vystavené zajišťovací směnky),i zajištění spotřebitelské smlouvy podléhá režimu ochrany ,spotřebitele podle § 56 odst. 1 obč. zák. , Soudy jsou povinny posuzovat neplatnost rozhodčí doložky, i když spotřebitel její ,neplatnost uplatnil nikoliv v rámci rozhodčího řízení, ale až v řízení o zrušení rozhodčího nálezu"
-- *NS* [23 Cdo 2406/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC9B2E7BB51B5137C1257B6300358E45?openDocument) — 27. 3. 2013, kat. A
+- *NS* [23 Cdo 2406/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EC9B2E7BB51B5137C1257B6300358E45?openDocument) — kat. A, 27. 3. 2013
   > „Námitka neplatnosti rozhodčí smlouvy včas uplatněná v rozhodčím řízení má za důsledek, že z hlediska ustanovení § 33 zákona o rozhodčím řízení se tato námitka vztahuje i na jiné důvody neplatnosti rozhodčí smlouvy, než které byly případně v této námitce skutkově popsány"
+- *NS* [23 Cdo 297/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AD784FA11EE402B9C1257EB30046E29A?openDocument) — kat. A, 2. 7. 2015
+  > „Námitka neplatnosti rozhodčí smlouvy uplatněná právnickou osobou sice při prvním úkonu v rozhodčím řízení, avšak po uplynutí lhůty podle § 33 zákona o rozhodčím řízení, není včasná, i když se tento účastník nedozvěděl o obsahu výzvy k vyjádření doručené náhradním způsobem"
+- *NS* [23 Cdo 2193/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5CBA79B4F3817678C1258A3E00160EED?openDocument) — kat. A, 30. 8. 2023
+  > „Důvod zamítnout návrh na zrušení rozhodčího nálezu podle § 33 zákona o rozhodčím řízení pro včasné neuplatnění není dán, jestliže straně, která se domáhá zrušení rozhodčího nálezu, nebylo zprostředkováno oznámení rozhodce rozhodčímu soudu o okolnostech, které by mohly vzbudit oprávněné pochybnosti o jeho nepodjatosti"
+- *NS* [33 Cdo 1201/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B4D2A21F68AD3C6FC1257BB10026B59A?openDocument) — kat. A, 20. 6. 2013
+  > „… Soudy jsou povinny posuzovat neplatnost rozhodčí doložky, i když spotřebitel její neplatnost uplatnil nikoliv v rámci rozhodčího řízení, ale až v řízení o zrušení rozhodčího nálezu"
 
 #### Princip „use it or lose it"
 
@@ -2676,7 +2660,7 @@ Prekluze se **neuplatňuje** u důvodů písm. a), d), e), f), g) — tyto důvo
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [33 Cdo 384/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E519B7E137F370FC1257EF1002B54C2?openDocument) — 27. 8. 2015, kat. A
+- *NS* [33 Cdo 384/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4E519B7E137F370FC1257EF1002B54C2?openDocument) — kat. A, 27. 8. 2015
   > „Ustanovení § 34 odst. 1 zákona č. 216/1994 Sb. (ve znění pozdějších předpisů) nezakládá bez dalšího místní příslušnost soudu k projednání věci. Soud, který k návrhu některé ze stran pokračuje po právní moci rozsudku o zrušení rozhodčího nálezu z důvodů vymezených v § 31 písm. a), b), g) nebo h) uvedeného zákona v jednání ve věci samé, je povinen zkoumat, zda jsou splněny podmínky řízení, za nichž může rozhodnout ve věci samé (§ 103 a násl. o. s. ř.)"
 
 #### Dvojí důsledek zrušení
@@ -2759,7 +2743,7 @@ Důsledky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 3284/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E49414B7658E266C1257A4E0065B928?openDocument) — 31. 8. 2010, kat. A
+- *NS* [20 Cdo 3284/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E49414B7658E266C1257A4E0065B928?openDocument) — kat. A, 31. 8. 2010
   > „Není-li uzavřena rozhodčí smlouva, není vydaný rozhodčí nález způsobilým exekučním titulem bez zřetele k tomu, že povinný v rozhodčím řízení neexistenci rozhodčí smlouvy nenamítl"
 
 #### Alternativní obranná cesta
@@ -2843,8 +2827,8 @@ Pokud je rozhodčí nález **zrušen**, strany postupují podle § 34 — buď s
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 3737/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47AF8EADB4B5B398C125899D0030F40F?openDocument) — 29. 3. 2023, kat. A
-  > „I. Ujednání stanov spolku, která by uvnitř spolku na jedné straně zřizovala rozhodčí komisi, a na druhé straně stanovila, že rozhodnutí rozhodčí komise nepodléhají přezkumu v řízení o zrušení rozhodčího nálezu soudem a zastavení nařízeného výkonu rozhodnutí (ve smyslu § 31 až § 35 zákona č. 216/1994 Sb. ve znění pozdějších předpisů), odporují donucujícím ustanovením zákona. II. Úprava § 89 z. ř. s. umožňující upustit od nařízení jednání se uplatní toliko v řízení před soudem prvního stupně, nikoli v řízení odvolacím. III. Členství v rozhodčí komisi spolku je neslučitelné s výkonem funkce soudce"
+- *NS* [27 Cdo 3737/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47AF8EADB4B5B398C125899D0030F40F?openDocument) — kat. A, 29. 3. 2023
+  > „I. Ujednání stanov spolku, která by uvnitř spolku na jedné straně zřizovala rozhodčí komisi, a na druhé straně stanovila, že rozhodnutí rozhodčí komise nepodléhají přezkumu v řízení o zrušení rozhodčího nálezu soudem a zastavení nařízeného výkonu rozhodnutí (ve smyslu § 31 až § 35 zákona č. 216/1994 Sb. ve znění pozdějších předpisů), odporují donucujícím ustanovením zákona. … III. Členství v rozhodčí komisi spolku je neslučitelné s výkonem funkce soudce"
 
 #### Subsidiární použití ZRR
 
@@ -3268,8 +3252,8 @@ Procesní mechanismus podle § 35 odst. 1 písm. c/, d/ a § 35 odst. 2, 3 se po
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 4847/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B9EFCEDEA599523C1257A4E006692A9?openDocument) — 14. 10. 2010, kat. A
-  > „Řízení o jmenování rozhodce (předsedajícího, resp. třetího rozhodce) podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů je řízením podle tohoto zákona ve smyslu ustanovení § 41. Jestliže některá ze stran rozhodčího řízení podala po uplynutí třicetidenní lhůty podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů návrh na jmenování předsedajícího (třetího) rozhodce a tento návrh nevzala zpět, nemohou se již jmenovaní rozhodci (pokud se strany nedohodly jinak) účinně shodnout na osobě předsedajícího (třetího) rozhodce. Řízení o jmenování rozhodce podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů je řízením nesporným. Účastníky tohoto řízení jsou kromě navrhovatele (jímž může být pouze osoba uvedená v § 9 odst. 1 tohoto zákona) strany rozhodčího řízení, již jmenovaní rozhodci a osoba, která je v…"
+- *NS* [23 Cdo 4847/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8B9EFCEDEA599523C1257A4E006692A9?openDocument) — kat. A, 14. 10. 2010
+  > „Řízení o jmenování rozhodce (předsedajícího, resp. třetího rozhodce) podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů je řízením podle tohoto zákona ve smyslu ustanovení § 41. …"
 
 #### Dvojí věcná příslušnost
 
