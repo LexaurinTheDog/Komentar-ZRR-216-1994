@@ -14,6 +14,10 @@
 - **Newyorská úmluva 1958** (§ 47, vztah k ZMPS §§ 117-122)
 - **Restrikce spotřebitelské arbitráže** (od 2017)
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
