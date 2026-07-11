@@ -134,3 +134,140 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | jmenuje; soud může; rozhodne | [§ 7](https://e-sbirka.gov.cz/sb/1994/216#par_7); [§ 9](https://e-sbirka.gov.cz/sb/1994/216#par_9); [§ 22](https://e-sbirka.gov.cz/sb/1994/216#par_22); [§ 34](https://e-sbirka.gov.cz/sb/1994/216#par_34) |
 | Oprávnění a povinnost | musí; je povinen; jsou povinni; může podat | [§ 3](https://e-sbirka.gov.cz/sb/1994/216#par_3); [§ 5](https://e-sbirka.gov.cz/sb/1994/216#par_5); [§ 6](https://e-sbirka.gov.cz/sb/1994/216#par_6); [§ 12](https://e-sbirka.gov.cz/sb/1994/216#par_12) |
 | Domněnky, fikce a účinkové konstrukce | platí, že | [§ 13](https://e-sbirka.gov.cz/sb/1994/216#par_13) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 216/1994 Sb., o rozhodčím řízení (ZRR) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují, jakým způsobem norma cílí na jednání adresáta. Klasická nauka rozlišuje modality **objektivní** — příkaz (norma ukládá konat), zákaz (norma zapovídá konat) a dovolení (norma ponechává jednání na vůli adresáta) — a modality **subjektivní**, jimiž jsou oprávnění a jemu korelativní povinnost. Objektivní a subjektivní rovina se prolínají: z objektivního příkazu adresovaného rozhodci (např. povinnost mlčenlivosti dle § 6 odst. 1) vzniká na straně stran korelativní subjektivní oprávnění vyžadovat její zachování. Deonticky lze modality vyjádřit operátory „je přikázáno", „je zakázáno" a „je dovoleno", jež jsou vzájemně převoditelné (zákaz = příkaz opomenutí; dovolení = negace zákazu).
+
+Zvláštní postavení mají **zmocnění** neboli kompetenční normy. Ty nejsou příkazem ani zákazem chování v úzkém smyslu, nýbrž konstituují či rozšiřují pravomoc určitého orgánu — svěřují mu způsobilost autoritativně vyvolat právní následek. V ZRR jsou typickými nositeli kompetenčních norem obecný soud (subsidiární jmenování rozhodce dle § 9 odst. 1, nařízení předběžného opatření dle § 22) a sami rozhodci (pravomoc zkoumat vlastní pravomoc dle § 15 odst. 1). Kompetenční normy je nutno odlišovat od pouhého oprávnění: zakládají mocenskou způsobilost, nikoli jen dovolené soukromé jednání.
+
+**Korelativita oprávnění a povinnosti** je patrná zejména u smluvní autonomie stran (§ 2 odst. 1): dovolení podrobit spor rozhodcům je zrcadleno derogací pravomoci obecných soudů. Naopak dobrovolně přijatá funkce rozhodce (§ 5 odst. 1) mění původní dovolení („může funkci nepřijmout") v pevnou povinnost řádného výkonu — jde o modální posun z dovolení na příkaz podmíněný vlastním úkonem adresáta.
+
+**Domněnky a fikce** jsou normativní techniky pracující s dokazováním a jistotou. Vyvratitelná domněnka (praesumptio iuris) stanoví, co se má za prokázané, dokud není prokázán opak, a přesouvá důkazní břemeno. Nevyvratitelná domněnka (praesumptio iuris et de iure) a fikce (dějový stav, o němž se ví, že neodpovídá skutečnosti, přesto se s ním spojuje právní následek) opak vylučují. V ZRR je reprezentativní zákonná domněnka podrobení se předpisům stálého rozhodčího soudu (§ 13 odst. 3), jež nastupuje již při dohodě o příslušnosti takového soudu.
+
+### Dovolení
+
+Dovolení je v ZRR nosným prvkem celé konstrukce arbitráže: rozhodčí řízení je z povahy věci projevem smluvní autonomie stran, jež se rozhodnou vyjmout svůj majetkový spor z pravomoci obecných soudů. Klíčové ustanovení § 2 odst. 1 užívá výrazu „mohou dohodnout", jímž zakládá dispozitivní oprávnění stran, nikoli povinnost. Dovolení je zde ovšem věcně ohraničeno — vztahuje se pouze na spory majetkové a arbitrabilní, tj. takové, o nichž by strany mohly uzavřít smír.
+
+Dovolení tak vymezuje samotný vstupní práh použitelnosti zákona: bez konsensuálního využití tohoto dovolení nevzniká pravomoc rozhodců a případný nález nemá oporu. Dovolení se přenáší i na právní nástupce původních stran, což potvrzuje jeho materiální, nikoli ryze osobní povahu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 2 odst. 1 | mohou dohodnout | „Strany se mohou dohodnout, že o majetkových sporech mezi nimi" | Zakládá smluvní autonomii stran podrobit majetkový spor rozhodčímu řízení a vymezuje věcný rozsah arbitrability. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *NS* [29 Cdo 3309/2015](judikatura/NS-29-Cdo-3309-2015.md) — rozs. z 27. 10. 2015, hesla Směnky, Pravomoc soudu, Rozhodčí řízení
+  > „Žalobce, na kterého byla směnka indosována po protestu pro neplacení nebo po uplynutí lhůty k protestu, je jakožto právní nástupce původního věřitele vázán rozhodčí smlouvou uzavřenou tímto věřitelem."
+
+### Zákaz
+
+Zákaz se v ZRR objevuje ve dvou typických podobách. První je zákaz formy: rozhodčí smlouva „musí být uzavřena písemně, jinak je neplatná" (§ 3 odst. 1). Přestože je výraz formulován jako příkaz („musí"), jeho normativní jádro je zápovědí — zakazuje přiznat účinky ústně sjednané rozhodčí smlouvě a stíhá porušení absolutní neplatností. Jde o ochrannou normu, jež brání straně nevědomě se vzdát práva na zákonného soudce. Druhou podobou je adresný zákaz klamavého označení (§ 13 odst. 4): „Nikdo není oprávněn používat" označení evokující stálý rozhodčí soud.
+
+Oba zákazy sdílejí ochranný účel — chrání buď slabší stranu smlouvy, nebo veřejnost před zneužitím institucionální arbitráže. Porušení prvního vede k neplatnosti smlouvy, porušení druhého k odpovědnostním a soutěžním následkům.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 3 odst. 1 | musí být uzavřena písemně, jinak je neplatná | „Rozhodčí smlouva musí být uzavřena písemně, jinak je neplatná." | Stanoví konstitutivní písemnou formu pod sankcí absolutní neplatnosti chránící stranu před nevědomým vzdáním se práva na soud. |
+| § 13 odst. 4 | Nikdo není oprávněn používat | „Nikdo není oprávněn používat při výkonu své činnosti takové označení, které vyvolává klamnou představu, že se jedná o stálý rozhodčí soud" | Zakazuje užívání označení klamavě evokujícího stálý rozhodčí soud a chrání před zneužíváním arbitráže soukromými centry. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *ÚS* [I.ÚS 2619/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2619-08_1) — nález z 18. 11. 2008
+  > „Tím je naplněna i podmínka § 3 odst. 2 zákona č. 216/1994 Sb"
+
+### Dovolení a zmocnění — kompetenční normy
+
+Zmocnění (kompetenční normy) svěřují pravomoc konkrétnímu orgánu tam, kde selhává dohoda stran nebo kde je nutná mocenská ingerence, již rozhodci nemají. ZRR jimi vybavuje zejména obecný soud. Podle § 9 odst. 1 „jmenuje rozhodce nebo předsedajícího rozhodce soud, pokud se strany nedohodly jinak" — jde o subsidiární pravomoc, jež brání obstrukční paralýze řízení. Podle § 22 „může soud na návrh kterékoli strany nařídit předběžné opatření"; tím se soudu svěřuje zajišťovací pravomoc, kterou rozhodci z povahy věci postrádají.
+
+Zmocnění je nutno číst přesně: soud nejedná z vlastní iniciativy, nýbrž teprve na návrh a jen tam, kde chybí odchylná dohoda stran. Kompetenční normy tak doplňují smluvní autonomii, aniž by ji nahrazovaly.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 9 odst. 1 | jmenuje soud | „jmenuje rozhodce nebo předsedajícího rozhodce soud, pokud se strany nedohodly jinak" | Kompetenční norma svěřující soudu subsidiární pravomoc jmenovat rozhodce a bránit obstrukční paralýze řízení. |
+| § 22 | může soud nařídit | „může soud na návrh kterékoli strany nařídit předběžné opatření" | Svěřuje obecnému soudu pravomoc zajistit výkon budoucího nálezu předběžným opatřením, jež rozhodci nemají. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *NS* [23 Cdo 4847/2009](judikatura/NS-23-Cdo-4847-2009.md) — rozs. z 14. 10. 2010, hesla Příslušnost soudu věcná, Rozhodčí řízení, Účastníci řízení
+  > „Řízení o jmenování rozhodce (předsedajícího, resp. třetího rozhodce) podle ustanovení § 9 odst. 1 zákona č. 216/1994 Sb. ve znění pozdějších předpisů je řízením podle tohoto zákona ve smyslu ustanovení § 41."
+
+### Příkaz
+
+Příkaz ukládá adresátovi aktivní konání a je v ZRR spjat především s kogentními požadavky na řízení a jeho výstup. Rozhodci „jsou povinni zachovávat mlčenlivost" (§ 6 odst. 1) — příkaz konstituující neveřejnost arbitráže. Konečný počet rozhodců „musí být vždy lichý" (§ 7 odst. 1) — příkaz zajišťující usnášeníschopnost a bránící patové situaci. Rozhodčí nález „musí být usnesen většinou rozhodců, vyhotoven písemně a alespoň většinou rozhodců podepsán" (§ 25 odst. 1) — příkaz formálních náležitostí, jehož porušení zakládá důvod zrušení nálezu soudem.
+
+Společným rysem těchto příkazů je jejich kogentnost: strany se od nich nemohou dohodou odchýlit, neboť chrání integritu řízení a přezkoumatelnost nálezu. Sankcí za porušení není neplatnost smlouvy, nýbrž vadnost samotného řízení či nálezu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 6 odst. 1 | jsou povinni zachovávat mlčenlivost | „Rozhodci jsou povinni zachovávat mlčenlivost o skutečnostech, o kterých se dozvěděli v souvislosti s výkonem funkce rozhodce" | Ukládá rozhodcům povinnost mlčenlivosti, jež je konstitutivním rysem neveřejného rozhodčího řízení. |
+| § 7 odst. 1 | musí být vždy lichý | „Konečný počet rozhodců musí být vždy lichý." | Kogentní pravidlo zajišťující usnášeníschopnost senátu většinou hlasů a bránící patové situaci. |
+| § 25 odst. 1 | musí být usnesen, vyhotoven, podepsán | „Rozhodčí nález musí být usnesen většinou rozhodců, vyhotoven písemně a alespoň většinou rozhodců podepsán." | Stanoví konstitutivní formální náležitosti nálezu, jejichž porušení zakládá důvod jeho zrušení soudem. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *ÚS* [II.ÚS 1946/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1946-15_1) — nález z 22. 10. 2015
+  > „Nejvyššímu soudu vytýká, že jeho právní závěr o neplatnosti rozhodčí doložky je v příkrém rozporu s § 7 odst. 1 zákona č. 216/1994 Sb., o rozhodčím řízení a o výkonu rozhodčích nálezů, v rozhodném znění (dále jen "zákon o rozhodčím řízení")"
+- *ÚS* [III.ÚS 582/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-582-02) — nález z 16. 12. 2002
+  > „Z jejího pohledu došlo rovněž k porušení ustanovení § 25 odst. 3 a § 30 zákona č. 216/1994 Sb"
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou dvě strany téže korelativní vazby a v ZRR se soustřeďují do postavení rozhodce. Nositelem klíčového oprávnění je rozhodce podle § 15 odst. 1: „Rozhodci jsou oprávněni zkoumat svou pravomoc." Jde o zakotvení principu Kompetenz-Kompetenz — rozhodci sami posuzují vlastní pravomoc rozhodnout spor, což je podmínkou funkčnosti arbitráže. Toto oprávnění má však aplikační dosah jen na probíhající rozhodčí řízení a nevylučuje pozdější přezkum pravomoci soudem.
+
+Naproti tomu povinnosti rozhodce vznikají typicky v návaznosti na dobrovolně přijatou funkci. Přijme-li rozhodce funkci, „je povinen vykonávat ji v souladu s tímto zákonem a dalšími předpisy" (§ 5 odst. 1). Vedle toho rozhodce „musí bez odkladu stranám nebo soudu oznámit" okolnosti zpochybňující jeho nepodjatost (§ 8 odst. 2) — proaktivní informační povinnost chránící nestrannost řízení. Korelativita je zde zjevná: oznamovací povinnosti rozhodce odpovídá oprávnění stran domáhat se jeho vyloučení.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 15 odst. 1 | jsou oprávněni zkoumat | „Rozhodci jsou oprávněni zkoumat svou pravomoc." | Zakotvuje princip Kompetenz-Kompetenz — rozhodci sami posuzují vlastní pravomoc k rozhodnutí sporu. |
+| § 5 odst. 1 | je povinen vykonávat | „Pokud však tuto funkci přijme, je povinen vykonávat ji v souladu s tímto zákonem a dalšími předpisy." | Po dobrovolném přijetí funkce vzniká rozhodci subjektivní povinnost řádného výkonu podle zákona. |
+| § 8 odst. 2 | musí bez odkladu oznámit | „musí bez odkladu stranám nebo soudu oznámit všechny okolnosti, které by mohly vzbudit oprávněné pochybnosti o jeho nepodjatosti" | Zakotvuje povinnost rozhodce proaktivně informovat o okolnostech zpochybňujících jeho nestrannost. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *ÚS* [I.ÚS 871/11](judikatura/US-I-S-871-11.md) — nález z 17. 1. 2012
+  > „Ustanovení § 15 zákona č. 216/1994 Sb., o rozhodčím řízení a o výkonu rozhodčích nálezů, uvádí, že rozhodci jsou oprávněni zkoumat svoji pravomoc"
+- *NS* [29 Cdo 1899/2008](judikatura/NS-29-Cdo-1899-2008.md) — rozs. z 25. 2. 2010, hesla Právnická osoba, Rozhodčí řízení, Způsobilost být účastníkem řízení
+  > „Rozhodčí soud při Hospodářské komoře České republiky a Agrární komoře České republiky je právnickou osobou. Usnesením, jímž rozhodčí soud (rozhodce) rozhodl o nedostatku své pravomoci (§ 15 odst. 1 zákona č. 216/1994 Sb., ve znění pozdějších předpisů), je soud vázán"
+
+### Domněnky a fikce
+
+Zákonná domněnka v ZRR slouží k dotvoření obsahu dohody stran tam, kde ji strany nekonkretizovaly. Dohodnou-li se strany na příslušnosti stálého rozhodčího soudu, „platí, že se podrobily předpisům uvedeným v odstavci 2, platným v době zahájení řízení před stálým rozhodčím soudem" (§ 13 odst. 3). Domněnka nastupuje ex lege již dohodou o příslušnosti a fixuje aplikovatelnou verzi řádu soudu na okamžik zahájení řízení. Tím se předchází sporům o to, jaká pravidla řízení platí, a posiluje se předvídatelnost institucionální arbitráže.
+
+Modálně jde o normativní techniku, jež nahrazuje absentující výslovný projev vůle stran zákonem stanoveným obsahem; strany se sice mohou v dohodě od tohoto obsahu odchýlit, není-li tomu tak, uplatní se domnělé podrobení se aktuálnímu řádu soudu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 13 odst. 3 | platí, že se podrobily | „platí, že se podrobily předpisům uvedeným v odstavci 2, platným v době zahájení řízení před stálým rozhodčím soudem" | Zákonná domněnka podrobení se aktuálním pravidlům stálého rozhodčího soudu při dohodě o jeho příslušnosti. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *NS* [20 Cdo 676/2016](judikatura/NS-20-Cdo-676-2016.md) — usn. z 13. 12. 2016, hesla Výkon rozhodčích nálezů, Veřejný pořádek (o. z.)
+  > „Vydal-li rozhodčí nález rozhodčí soud zřízený podle § 12 zákona č. 244/2002 Zbierky zákonov SR, nelze pouze na základě skutečnosti, že nejde o stálý rozhodčí soud ve smyslu § 13 zákona o rozhodčím řízení, odepřít výkon takového rozhodčího nálezu pro rozpor s veřejným pořádkem."
+
+### Modality v systému předpisu — jak se kombinují v klíčových institutech
+
+Jednotlivé modality nefungují izolovaně, nýbrž se v klíčových institutech ZRR vrství. U **rozhodčí smlouvy** se dovolení podrobit spor rozhodcům (§ 2 odst. 1, „mohou dohodnout") setkává se zákazem formy (§ 3 odst. 1, „musí být uzavřena písemně, jinak je neplatná"): svobodné dovolení je podmíněno kogentním formálním požadavkem, jehož nesplnění dovolení zmaří neplatností. Autonomie stran je tak současně otevřená (co do rozhodnutí využít arbitráž) i sešněrovaná (co do formy).
+
+U **ustavení rozhodce** se protíná subjektivní povinnost řádného výkonu po přijetí funkce (§ 5 odst. 1, „je povinen vykonávat") a oznamovací povinnost k podjatosti (§ 8 odst. 2, „musí bez odkladu oznámit") na jedné straně s kompetenční normou svěřující soudu subsidiární jmenování rozhodce (§ 9 odst. 1, „jmenuje soud, pokud se strany nedohodly jinak"). Selhává-li dohoda, nastupuje mocenská ingerence soudu; funguje-li, váže rozhodce soubor povinností. K tomu přistupuje kogentní příkaz lichého počtu rozhodců (§ 7 odst. 1, „musí být vždy lichý"), jenž je nutným organizačním předpokladem usnášeníschopnosti senátu.
+
+U **průběhu a rozhodnutí sporu** se pojí oprávnění rozhodců zkoumat vlastní pravomoc (§ 15 odst. 1, „jsou oprávněni zkoumat") s příkazem mlčenlivosti (§ 6 odst. 1) a s domněnkou podrobení se řádu stálého rozhodčího soudu (§ 13 odst. 3, „platí, že se podrobily"). Zajišťovací mezeru pak vyplňuje kompetenční norma soudu k předběžnému opatření (§ 22, „může soud nařídit"). Vrcholem je příkaz formálních náležitostí nálezu (§ 25 odst. 1, „musí být usnesen, vyhotoven, podepsán"): teprve dodržení tohoto příkazu činí z výstupu řízení způsobilý a přezkoumatelný nález. Zákaz klamavého označení (§ 13 odst. 4, „Nikdo není oprávněn používat") pak celý systém chrání navenek před zneužitím institucionální podoby arbitráže.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Dovolení | „mohou dohodnout" | § 2 odst. 1 (arbitrabilita a rozhodčí smlouva) |
+| Zákaz | „musí být uzavřena písemně, jinak je neplatná"; „Nikdo není oprávněn používat" | § 3 odst. 1 (písemná forma); § 13 odst. 4 (zákaz klamavého označení) |
+| Příkaz | „jsou povinni zachovávat mlčenlivost"; „musí být vždy lichý"; „musí být usnesen, vyhotoven, podepsán" | § 6 odst. 1 (mlčenlivost); § 7 odst. 1 (lichý počet); § 25 odst. 1 (forma nálezu) |
+| Zmocnění | „jmenuje soud"; „může soud nařídit" | § 9 odst. 1 (soudní jmenování rozhodce); § 22 (předběžné opatření) |
+| Oprávnění | „jsou oprávněni zkoumat" | § 15 odst. 1 (kompetence-kompetence) |
+| Povinnost | „je povinen vykonávat"; „musí bez odkladu oznámit" | § 5 odst. 1 (výkon funkce rozhodce); § 8 odst. 2 (oznamovací povinnost k podjatosti) |
+| Domněnka / fikce | „platí, že se podrobily" | § 13 odst. 3 (podrobení se řádu stálého rozhodčího soudu) |
