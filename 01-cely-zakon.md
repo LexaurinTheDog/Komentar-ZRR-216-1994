@@ -88,6 +88,58 @@ ZRR výslovně neřeší:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d763205af4d0e54836e8 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 1
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Tento zákon upravuje
+>
+> - a) rozhodování majetkových sporů nezávislými a nestrannými rozhodci,
+>
+> - b) rozhodování sporných záležitostí náležejících do spolkové samosprávy rozhodčí komisí spolku podle [[občanského zákoníku|občanského zákoníku]]7) a
+>
+> - c) výkon rozhodčích nálezů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d763205af4d0e54836e8 -->
+
 ### Rozhodčí smlouva (§§ 2–3)
 
 ### § 2 — Arbitrabilita a typologie rozhodčí smlouvy
@@ -210,6 +262,64 @@ Strany mohou vázanost právních nástupců **výslovně vyloučit** — pak se
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7022bbedd26dc5f90bb9 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Strany se mohou dohodnout, že o majetkových sporech mezi nimi, s výjimkou sporů ze smluv, které se spotřebitelem uzavírá podnikatel, sporů vzniklých v souvislosti s výkonem rozhodnutí a incidenčních sporů, k jejichž projednání a rozhodnutí by jinak byla dána pravomoc soudu nebo o nichž to stanoví zvláštní zákon, má rozhodovat jeden nebo více rozhodců anebo stálý rozhodčí soud (rozhodčí smlouva).
+>
+> (2) Rozhodčí smlouvu lze platně uzavřít, jestliže strany by mohly o předmětu sporu uzavřít smír.1)
+>
+> (3) Rozhodčí smlouva se může týkat
+>
+> - a) jednotlivého již vzniklého sporu (smlouva o rozhodci), nebo
+>
+> - b) všech sporů, které by v budoucnu vznikly z určitého právního vztahu nebo z vymezeného okruhu právních vztahů (rozhodčí doložka).
+>
+> (4) Není-li v rozhodčí smlouvě uvedeno jinak, vztahuje se jak na práva z právních vztahů přímo vznikající, tak i na otázku právní platnosti těchto právních vztahů, jakož i na práva s těmito právy související.
+>
+> (5) Rozhodčí smlouva váže také právní nástupce stran, pokud to strany v této smlouvě výslovně nevyloučí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7022bbedd26dc5f90bb9 -->
+
 ### § 3 — Písemná forma rozhodčí smlouvy
 
 > **§ 3**
@@ -290,6 +400,54 @@ Tato úprava odráží **mezinárodně standardní princip inkorporace** (incorp
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=53b9ce63431c58afb6f4 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodčí smlouva musí být uzavřena písemně, jinak je neplatná. Písemná forma je zachována i tehdy, je-li rozhodčí smlouva sjednána telegraficky, dálnopisem nebo elektronickými prostředky, jež umožňují zachycení jejich obsahu a určení osob, které rozhodčí smlouvu sjednaly.
+>
+> (2) Tvoří-li však rozhodčí doložka součást podmínek, jimiž se řídí smlouva hlavní, k níž se rozhodčí doložka vztahuje, je rozhodčí doložka platně ujednána i tehdy, jestliže písemný návrh hlavní smlouvy s rozhodčí doložkou byl druhou stranou přijat způsobem, z něhož je patrný její souhlas s obsahem rozhodčí smlouvy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=53b9ce63431c58afb6f4 -->
+
 ## Část druhá — Rozhodci a stálé rozhodčí soudy (§§ 4–13)
 
 > **Téma části:** Část druhá vymezuje **personální dimenzi rozhodčího řízení** — kdo může být rozhodcem, jak je rozhodce určen či jmenován, kdy je z projednávání vyloučen, jak je řešena překážka v podobě podjatosti, a institucionální rámec stálých rozhodčích soudů. Část obsahuje deset paragrafů (§§ 4–13) a tvoří strukturně koherentní celek: nejprve obecné požadavky na osobu rozhodce (§§ 4–6 — způsobilost, přijetí funkce, mlčenlivost), následně procedurální pravidla pro určení a vyloučení (§§ 7–12 — jmenování, podjatost, nahrazení), a konečně institucionální úprava stálých rozhodčích soudů (§ 13 — typicky Rozhodčí soud při Hospodářské komoře ČR a Agrární komoře ČR).
@@ -369,6 +527,54 @@ Pojem „bezúhonný" je definován negativně — nesplňuje ji ten, kdo byl pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=159bea6816732072689e generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodcem může být občan České republiky, který je zletilý, bezúhonný a plně svéprávný, pokud zvláštní předpis2) nestanoví jinak.
+>
+> (2) Podmínku bezúhonnosti podle odstavce 1 nesplňuje ten, kdo byl pravomocně odsouzen za trestný čin, jestliže se na něj nehledí, jako by nebyl odsouzen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=159bea6816732072689e -->
+
 ### § 5 — Přijetí funkce rozhodce
 
 > **§ 5**
@@ -445,6 +651,56 @@ Bezdůvodné vzdání se funkce může zakládat odpovědnost rozhodce za škodu
 **Typicky rozhodné důkazy / podklady:** písemné přijetí funkce, korespondence o vzdání se a jeho důvodech, doklady o nákladech a průtazích, případně lékařské či jiné potvrzení závažného důvodu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=735421999d6286770b85 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 5
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Nikdo není povinen přijmout funkci rozhodce. Pokud však tuto funkci přijme, je povinen vykonávat ji v souladu s tímto zákonem a dalšími předpisy.
+>
+> (2) Přijetí funkce rozhodce musí být písemné.
+>
+> (3) Rozhodce se může své funkce vzdát jen ze závažných důvodů nebo se souhlasem stran.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=735421999d6286770b85 -->
 
 ### § 6 — Mlčenlivost rozhodce
 
@@ -525,6 +781,54 @@ Mlčenlivost rozhodce **neruší** jeho povinnost ohlásit závažný trestný �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b905585f27080f43a602 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodci jsou povinni zachovávat mlčenlivost o skutečnostech, o kterých se dozvěděli v souvislosti s výkonem funkce rozhodce, pokud nebyli této povinnosti zproštěni.
+>
+> (2) Rozhodce mohou mlčenlivosti zprostit strany. Jestliže strany rozhodce mlčenlivosti nezprostí, rozhoduje o zproštění mlčenlivosti z vážných důvodů předseda okresního soudu, v jehož obvodu má rozhodce trvalý pobyt. Pokud rozhodce nemá trvalý pobyt na území České republiky nebo jej nelze zjistit, rozhoduje o zproštění mlčenlivosti předseda okresního soudu, v jehož obvodu byl vydán rozhodčí nález. Pokud nelze zjistit ani místo vydání nálezu nebo nebyl-li nález vydán v České republice, rozhoduje předseda obvodního soudu pro Prahu 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b905585f27080f43a602 -->
+
 ### Určení, jmenování a vyloučení rozhodců (§§ 7–12)
 
 ### § 7 — Počet a způsob určení rozhodců
@@ -603,6 +907,54 @@ Tento model je **lichý ze své podstaty** (3 rozhodci) a respektuje paritu stra
 **Typicky rozhodné důkazy / podklady:** rozhodčí doložka, výpis z obchodního rejstříku appointing authority, doklady o personálním / ekonomickém propojení se stranou, korespondence o jmenování rozhodce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f2c5bb91344ea95b4c0d generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodčí smlouva má zpravidla určit počet i osoby rozhodců anebo stanovit způsob, jak počet i osoby rozhodců mají být určeny. Rozhodce může být určen i stranami dohodnutou osobou nebo způsobem uvedeným v pravidlech pro rozhodčí řízení podle § 19 odst. 4. Konečný počet rozhodců musí být vždy lichý.
+>
+> (2) Nemá-li rozhodčí smlouva ustanovení podle odstavce 1, jmenuje každá ze stran jednoho rozhodce a tito rozhodci volí předsedajícího rozhodce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f2c5bb91344ea95b4c0d -->
 
 ### § 8 — Vyloučení rozhodce pro podjatost
 
@@ -688,6 +1040,54 @@ Porušení oznamovací povinnosti je **samostatným důvodem pro vyloučení** r
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f4f67f86c1f949b289de generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodce je vyloučen z projednávání a rozhodnutí věci, jestliže se zřetelem na jeho poměr k věci, k účastníkům nebo k jejich zástupcům je tu důvod pochybovat o jeho nepodjatosti.
+>
+> (2) Ten, kdo má být nebo byl určen nebo jmenován rozhodcem, musí bez odkladu stranám nebo soudu oznámit všechny okolnosti, které by mohly vzbudit oprávněné pochybnosti o jeho nepodjatosti a pro něž by byl jako rozhodce vyloučen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f4f67f86c1f949b289de -->
+
 ### § 9 — Soudní jmenování rozhodce
 
 > **§ 9**
@@ -756,6 +1156,54 @@ Jmenování soudem je **konstitutivním aktem** — od okamžiku jmenování má
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d55c9230a5901c37571b generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Jestliže strana, která má jmenovat rozhodce, tak neučiní do 30 dnů od doručení výzvy druhé strany, nebo nemohou-li se jmenovaní rozhodci ve stejné lhůtě shodnout na osobě předsedajícího rozhodce, jmenuje rozhodce nebo předsedajícího rozhodce soud, pokud se strany nedohodly jinak. Návrh může soudu podat kterákoli strana nebo každý z již jmenovaných rozhodců.
+>
+> (2) Nedohodly-li se strany jinak, jmenuje soud na návrh kterékoli strany nebo rozhodce nového rozhodce, jestliže jmenovaný rozhodce se vzdá funkce rozhodce nebo nemůže činnost rozhodce vykonávat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d55c9230a5901c37571b -->
+
 ### § 10 — Kritéria soudního jmenování
 
 > **§ 10**
@@ -819,6 +1267,54 @@ Soud v praxi vybírá z **listin rozhodců** stálých rozhodčích soudů (zejm
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fc35b14e2d9aceec1a08 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 10
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Při jmenování rozhodce nebo předsedajícího rozhodce podle [[#§ 9|§ 9]] soud přihlíží k předpokladům pro jeho nezávislé a nestranné rozhodování.
+>
+> (2) Ustanovení [[#§ 5|§ 5]] platí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc35b14e2d9aceec1a08 -->
+
 ### § 11 — Dodatečné vyšlé okolnosti
 
 > **§ 11**
@@ -877,6 +1373,52 @@ V této situaci je rozhodce povinen **vzdát se funkce** (§ 12 odst. 1) — jin
 **Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku / jiný doklad o vzniku vztahu rozhodce ke straně, časová osa řízení, protokoly a oznámení rozhodce, korespondence o námitce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=235eadf9abca9b4cc067 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 11
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Nestanoví-li tento zákon jiné důvody, je již určený nebo jmenovaný rozhodce vyloučen z projednávání věci, jestliže dodatečně vyjdou najevo okolnosti uvedené v [[#§ 8|§ 8]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=235eadf9abca9b4cc067 -->
 
 ### § 12 — Procedura vyloučení
 
@@ -944,6 +1486,54 @@ Soudní vyloučení je **konstitutivní** — od právní moci usnesení rozhodc
 **Typicky rozhodné důkazy / podklady:** námitka podjatosti, doklady o vztahu rozhodce ke straně/zástupci, vyjádření rozhodce, rozhodčí smlouva (postup vyloučení), případně řád stálého rozhodčího soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=01815e962529880a3160 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 12
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Již určený nebo jmenovaný rozhodce, u něhož vyšly najevo okolnosti uvedené v [[#§ 11|§ 11]], je povinen se funkce rozhodce vzdát.
+>
+> (2) Nevzdá-li se rozhodce funkce, mohou se strany dohodnout o postupu při jeho vyloučení. Kterákoli ze stran může podat návrh, aby o vyloučení rozhodl soud.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=01815e962529880a3160 -->
 
 ### § 13 — Stálé rozhodčí soudy
 
@@ -1049,6 +1639,58 @@ Pokud se strany dohodly na příslušnosti stálého rozhodčího soudu, **váz�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fd75554554a129be04e7 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 13 — Stálé rozhodčí soudy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Stálé rozhodčí soudy mohou být zřízeny pouze jiným zákonem nebo jen tehdy, pokud jejich zřízení jiný zákon výslovně připouští.
+>
+> (2) Stálé rozhodčí soudy mohou vydávat své statuty a řády, které musí být uveřejněny v Obchodním věstníku;3) tyto statuty a řády mohou určit způsob jmenování rozhodců, jejich počet, a mohou výběr rozhodců vázat na seznam vedený u stálého rozhodčího soudu. Statuty a řády mohou též určit způsob řízení a rozhodování i jiné otázky související s činností stálého rozhodčího soudu a rozhodců včetně pravidel o nákladech řízení a odměňování rozhodců.
+>
+> (3) Jestliže se strany dohodly na příslušnosti konkrétního stálého rozhodčího soudu a neujednaly v rozhodčí smlouvě jinak, platí, že se podrobily předpisům uvedeným v odstavci 2, platným v době zahájení řízení před stálým rozhodčím soudem.
+>
+> (4) Nikdo není oprávněn používat při výkonu své činnosti takové označení, které vyvolává klamnou představu, že se jedná o stálý rozhodčí soud podle tohoto zákona, není-li k používání takového označení oprávněn podle jiného právního předpisu nebo mezinárodní smlouvy, která je součástí právního řádu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fd75554554a129be04e7 -->
+
 ## Část třetí — Řízení před rozhodci (§§ 14–30)
 
 > **Téma části:** Část třetí upravuje **procesní průběh rozhodčího řízení** od jeho zahájení až po vydání nálezu nebo jiné formy skončení řízení. Obsahuje sedmnáct paragrafů, jež se dělí do tří funkčních bloků:
@@ -1132,6 +1774,56 @@ Stálý rozhodčí soud nebo rozhodce je povinen na žalobě **vyznačit den doj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5377358c4de3dfd08f36 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodčí řízení se zahajuje žalobou a je zahájeno dnem, kdy žaloba došla stálému rozhodčímu soudu nebo rozhodci uvedenému v odstavci 2. Podání žaloby má tytéž právní účinky, jako kdyby byla v této věci podána žaloba u soudu.
+>
+> (2) Není-li žaloba podávána stálému rozhodčímu soudu, podává se předsedajícímu rozhodci, je-li určen nebo jmenován; není-li předsedající rozhodce dosud určen nebo jmenován, žaloba se podává kterémukoli určenému nebo jmenovanému rozhodci.
+>
+> (3) Stálý rozhodčí soud i rozhodce uvedený v odstavci 2 je povinen na žalobě vyznačit den, kdy mu došla.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5377358c4de3dfd08f36 -->
+
 ### § 15 — Kompetence-kompetence
 
 > **§ 15**
@@ -1212,6 +1904,54 @@ Tato dvoufázová úprava (prekluze pro neplatnost vs. žádná prekluze pro nea
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a98867b0eb376f88f1e2 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 15
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodci jsou oprávněni zkoumat svou pravomoc. Dospějí-li k závěru, že podle rozhodčí smlouvy, která jim byla předložena, jejich pravomoc k rozhodnutí není dána, rozhodnou o tom usnesením.
+>
+> (2) Námitku nedostatku pravomoci, zakládající se na neexistenci, neplatnosti nebo zániku rozhodčí smlouvy, nejde-li o neplatnost z důvodu, že ve věci nebylo možno rozhodčí smlouvu uzavřít, může strana vznést nejpozději při prvním úkonu v řízení, týkajícího se věci samé.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a98867b0eb376f88f1e2 -->
+
 ### § 16 — Účinky podané žaloby při změně fóra
 
 > **§ 16**
@@ -1285,6 +2025,54 @@ V obou případech zůstávají původní účinky žaloby zachovány — stavě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3203a465d3927e26bf50 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Uplatní-li strana svůj nárok před rozhodci v promlčecí nebo prekluzivní lhůtě a rozhodnou-li rozhodci, že není dána jejich pravomoc, zůstávají účinky podané žaloby zachovány, pokud strana podá znovu u soudu, u příslušných rozhodců či stálého rozhodčího soudu, nebo u jiného příslušného orgánu žalobu do 30 dnů ode dne, kdy jí bylo doručeno rozhodnutí o nedostatku pravomoci.
+>
+> (2) Účinky podané žaloby zůstávají zachovány i tehdy, pokud strana po zrušení rozhodčího nálezu podala u příslušných rozhodců či stálého rozhodčího soudu, nebo u jiného příslušného orgánu žalobu, nebo návrh na pokračování v řízení do 30 dnů ode dne nabytí právní moci rozhodnutí soudu, jímž došlo ke zrušení rozhodčího nálezu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3203a465d3927e26bf50 -->
+
 ### § 17 — Místo rozhodčího řízení
 
 > **§ 17**
@@ -1356,6 +2144,52 @@ Zákon zavádí dvoukolejnou kaskádu:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e72c9a9e1ef7e2775109 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Rozhodčí řízení se koná v místě dohodnutém stranami. Není-li místo takto určeno, koná se v místě určeném rozhodci s přihlédnutím k oprávněným zájmům stran.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e72c9a9e1ef7e2775109 -->
+
 ### § 18 — Rovnost stran
 
 > **§ 18**
@@ -1414,6 +2248,52 @@ Porušení § 18 je **samostatným důvodem pro zrušení rozhodčího nálezu**
 **Typicky rozhodné důkazy / podklady:** předvolání a doklady o doručení, doručovací adresa dle doložky / datová schránka, návrhy důkazů strany, protokoly z jednání, odůvodnění nálezu (vypořádání důkazů).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9fd9996c4dc4b0264139 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Strany mají v rozhodčím řízení rovné postavení a musí jim být dána plná příležitost k uplatnění jejich práv.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9fd9996c4dc4b0264139 -->
 
 ### § 19 — Postup řízení
 
@@ -1500,6 +2380,58 @@ Pravidla musí být **přiložena** k rozhodčí smlouvě — pouhý odkaz nesta
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a6b6f1f4071ae008affc generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 19
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Strany se mohou dohodnout na postupu, kterým mají rozhodci vést řízení. Otázky řízení mohou být rozhodnuty předsedajícím rozhodcem, jestliže k tomu byl zmocněn stranami nebo všemi rozhodci.
+>
+> (2) Není-li uzavřena dohoda podle odstavce 1 nebo není určen postup podle odstavce 4, postupují rozhodci v řízení způsobem, který považují za vhodný. Vedou rozhodčí řízení tak, aby bez zbytečných formalit a při poskytnutí stejné příležitosti k uplatnění práv všem stranám byl zjištěn skutkový stav věci potřebný pro rozhodnutí sporu.
+>
+> (3) Nedohodnou-li se strany jinak, je řízení před rozhodci ústní. Toto řízení je vždy neveřejné.
+>
+> (4) Strany mohou určit postup také v pravidlech pro rozhodčí řízení, pokud jsou k rozhodčí smlouvě tato pravidla přiložena. Použití řádu stálého rozhodčího soudu tím není dotčeno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a6b6f1f4071ae008affc -->
+
 ### § 19a — Adresa pro doručování
 
 > **§ 19a**
@@ -1557,6 +2489,52 @@ Pravidla doručování v § 19a jsou zjednodušená oproti OSŘ (§§ 45–50l O
 **Typicky rozhodné důkazy / podklady:** doklad o existenci a zpřístupnění datové schránky, doručenky / doklady o doručení, rozhodčí smlouva s doručovacími adresami, nález s doložkou právní moci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c68bcae23ea62863755c generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 19a — Adresa pro doručování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Rozhodce doručí písemnost na adresu datové schránky; není-li možné písemnost doručit do datové schránky, doručí písemnost na elektronickou adresu, kterou adresát rozhodci sdělil nebo kterou určil jako doručovací v rozhodčí smlouvě. Není-li možné doručit písemnost na adresy uvedené výše, doručí rozhodce písemnost na adresu, kterou adresát rozhodci sdělil nebo adresu uvedenou v rozhodčí smlouvě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c68bcae23ea62863755c -->
 
 ### § 20 — Dokazování
 
@@ -1630,6 +2608,56 @@ Náklady, které vzniknou soudu provedením dožádaného úkonu, hradí **stál
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5dcc1562cc97050e93d0 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 20
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodci mohou vyslýchat svědky, znalce a strany, jen když se k nim dobrovolně dostaví a poskytnou výpověď. Také jiné důkazy mohou provádět jen tehdy, jsou-li jim poskytnuty.
+>
+> (2) Procesní úkony, které nemohou rozhodci sami provést, provede na jejich dožádání soud; soud je povinen dožádání vyhovět, nejde-li o procesní úkon podle zákona nepřípustný. Soud přitom učiní všechna rozhodnutí, která jsou k provedení dožádání potřebná.
+>
+> (3) Náklady řízení, které vznikly soudu provedením procesních úkonů podle odstavce 2, hradí soudu stálý rozhodčí soud nebo rozhodci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5dcc1562cc97050e93d0 -->
+
 ### § 21 — Zmeškání úkonu bez viny strany
 
 > **§ 21**
@@ -1691,6 +2719,52 @@ Rozhodci na základě návrhu „učiní přiměřená opatření" — typicky:
 **Typicky rozhodné důkazy / podklady:** doklad o překážce bez viny strany (lékařská zpráva, doklad o vyšší moci), doklad o termínu úkonu / jednání a lhůtě, návrh na dodatečné napravení, protokoly z řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9e3f09323187d2d39930 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Jestliže některá strana až do vyhotovení rozhodčího nálezu se bez své viny řízení zcela nebo zčásti nezúčastnila, nebo bez své viny nevykonala některý úkon potřebný k uplatnění jejího práva, učiní rozhodci k návrhu přiměřená opatření, aby strana mohla to, co zameškala, vykonat dodatečně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e3f09323187d2d39930 -->
 
 ### § 22 — Předběžné opatření
 
@@ -1760,6 +2834,52 @@ Příslušným soudem je obvykle **okresní soud podle obecných pravidel místn
 **Typicky rozhodné důkazy / podklady:** rozhodčí doložka, doklad o pohledávce (osvědčení nároku), doklad o hrozbě (převod majetku, výpis z katastru, inzerát), návrh na předběžné opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=da9574f987b4ace1eae4 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Ukáže-li se v průběhu rozhodčího řízení nebo i před jeho zahájením, že by mohl být ohrožen výkon rozhodčího nálezu, může soud na návrh kterékoli strany nařídit předběžné opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=da9574f987b4ace1eae4 -->
 
 ### Rozhodnutí (§§ 23–30)
 
@@ -1841,6 +2961,56 @@ Věta druhá písm. b/ řeší **specifický případ** u stálého rozhodčího
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cd3c25a8facc017ceb5f generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Rozhodčí řízení končí
+>
+> - a) právní mocí rozhodčího nálezu, nebo
+>
+> - b) doručením usnesení v těch případech, kdy se nevydává rozhodčí nález; usnesení musí být podepsáno, odůvodněno a doručeno jako rozhodčí nález; je-li žaloba podaná u stálého rozhodčího soudu vzata zpět ještě před ustavením senátu nebo jmenováním rozhodce, vydává a podepisuje usnesení o zastavení řízení předseda stálého rozhodčího soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cd3c25a8facc017ceb5f -->
+
 ### § 24 — Smírné vyřešení sporu
 
 > **§ 24**
@@ -1906,6 +3076,54 @@ Smírný nález je **mezinárodně vykonatelný** podle Newyorské úmluvy 1958 
 **Typicky rozhodné důkazy / podklady:** protokol o smíru, žádost stran o vydání nálezu o smíru, samotný smírný nález, doklad o (ne)splnění ujednaného plnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=de7452e80e358ac37436 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodci působí během řízení na strany, aby se dohodly na smírném vyřešení sporu.
+>
+> (2) Na žádost stran lze smír uzavřít ve formě rozhodčího nálezu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=de7452e80e358ac37436 -->
 
 ### § 25 — Forma a obsah rozhodčího nálezu
 
@@ -1991,6 +3209,56 @@ Toto pověření je v ČR neobvyklé — naprostá většina obchodních smluv p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1cb4c42acb7a24b217a7 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 25
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Rozhodčí nález musí být usnesen většinou rozhodců, vyhotoven písemně a alespoň většinou rozhodců podepsán. Výrok rozhodčího nálezu musí být určitý.
+>
+> (2) Rozhodčí nález musí obsahovat odůvodnění, ledaže se strany dohodly, že odůvodnění není třeba; to platí i o rozhodčím nálezu vydaném podle § 24 odst. 2.
+>
+> (3) Při rozhodování se rozhodci řídí hmotným právem pro spor rozhodným; mohou však spor rozhodnout podle zásad spravedlnosti, avšak jen tehdy, jestliže je k tomu strany výslovně pověřily.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1cb4c42acb7a24b217a7 -->
+
 ### § 26 — Oprava nálezu
 
 > **§ 26**
@@ -2051,6 +3319,52 @@ Oprava se **netýká** věcného rozhodnutí — rozhodci nemohou skrze opravu m
 **Typicky rozhodné důkazy / podklady:** rozhodčí nález (záhlaví, výrok, odůvodnění), žádost o opravu, případně podklady prokazující správný výpočet / identifikaci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=969f7d5c21c79792dd05 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 26
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Chyby v psaní nebo v počtech a jiné zřejmé nesprávnosti, které se vyskytnou v rozhodčím nálezu, opraví rozhodci nebo stálý rozhodčí soud kdykoliv na žádost kterékoliv ze stran. Taková oprava musí být usnesena, podepsána a doručena jako rozhodčí nález.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=969f7d5c21c79792dd05 -->
 
 ### § 27 — Přezkum nálezu jinými rozhodci
 
@@ -2116,6 +3430,52 @@ U RS HKAK je institut přezkumu **velmi vzácný** — Řád ho zpravidla nepře
 **Typicky rozhodné důkazy / podklady:** rozhodčí smlouva / stanovy (ujednání o přezkumu), nález a datum jeho doručení, žádost o přezkum, doklad o běhu 30denní lhůty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bc28e4de1014e3c7d882 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Strany se mohou dohodnout v rozhodčí smlouvě, že rozhodčí nález může být k žádosti některé z nich nebo obou přezkoumán jinými rozhodci. Nestanoví-li rozhodčí smlouva jinak, musí být žádost o přezkoumání zaslána druhé straně do 30 dnů ode dne, kdy byl straně žádající o přezkoumání doručen rozhodčí nález. Přezkoumání rozhodčího nálezu je součástí rozhodčího řízení a platí o něm ustanovení tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bc28e4de1014e3c7d882 -->
 
 ### § 28 — Právní moc a vykonatelnost nálezu
 
@@ -2193,6 +3553,54 @@ Rozhodčí nález nabývá **dnem doručení** (poslední straně) účinku prav
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=98081e04ea5cce87fd0b generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 28
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Písemné vyhotovení rozhodčího nálezu musí být doručeno stranám a po doručení opatřeno doložkou o právní moci.
+>
+> (2) Rozhodčí nález, který nelze přezkoumat podle [[#§ 27|§ 27]], nebo u něhož marně uplynula lhůta k podání žádosti o přezkoumání podle [[#§ 27|§ 27]], nabývá dnem doručení účinku pravomocného soudního rozhodnutí a je soudně vykonatelný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=98081e04ea5cce87fd0b -->
+
 ### § 29 — Úschova rozhodčího nálezu
 
 > **§ 29**
@@ -2267,6 +3675,56 @@ Třetí osoby právo nahlížet **nemají** — to odpovídá principu **neveře
 **Typicky rozhodné důkazy / podklady:** rozhodčí nález s uvedením místa vydání, doklad o předání spisu do úschovy (existuje-li), žádost o nahlédnutí, případně doklad o úmrtí / zániku rozhodce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=78efb0abc865aa5de90e generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Stálé rozhodčí soudy jsou povinny po dobu 20 let od právní moci rozhodčího nálezu uschovat rozhodčí nález opatřený doložkou o právní moci a všechny listiny prokazující průběh rozhodčího řízení.
+>
+> (2) Rozhodci jsou povinni do 30 dnů od právní moci rozhodčího nálezu předat do úschovy okresnímu soudu, v jehož obvodu byl rozhodčí nález vydán, rozhodčí nález opatřený doložkou o právní moci a všechny listiny prokazující průběh rozhodčího řízení; byl-li rozhodčí nález vydán mimo území České republiky, do úschovy soudu se nepředává.
+>
+> (3) Strany mohou nahlížet do listin uvedených v odstavcích 1 a [[#§ 2|2]] a činit z nich výpisy a opisy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=78efb0abc865aa5de90e -->
 
 ### § 30 — Subsidiární použití OSŘ
 
@@ -2346,6 +3804,52 @@ ZRR výslovně upravuje řadu otázek — zejména:
 **Typicky rozhodné důkazy / podklady:** rozhodčí doložka a procesní pravidla, doklady o doručení / zastoupení / během lhůt, nález, korespondence dokládající procesní postup.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=062d9113cdcbc2af54f1 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 30 — Užití [[občanského soudního řádu|občanského soudního řádu]]
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Nestanoví-li zákon jinak, užijí se na řízení před rozhodci přiměřeně ustanovení [[občanského soudního řádu|občanského soudního řádu]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=062d9113cdcbc2af54f1 -->
 
 ## Část čtvrtá — Zrušení rozhodčího nálezu soudem a zastavení nařízeného výkonu rozhodnutí (§§ 31–35)
 
@@ -2497,6 +4001,66 @@ Důvody lze klasifikovat do tří kategorií podle závažnosti a povahy:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ec0670e06e5c38fc99f0 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 31
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Soud na návrh kterékoliv strany zruší rozhodčí nález, jestliže
+>
+> - a) byl vydán ve věci, o níž nelze uzavřít platnou rozhodčí smlouvu,
+>
+> - b) rozhodčí smlouva je z jiných důvodů neplatná, nebo byla zrušena, anebo se na dohodnutou věc nevztahuje,
+>
+> - c) ve věci se zúčastnil rozhodce, který nebyl ani podle rozhodčí smlouvy, ani jinak povolán k rozhodování, nebo neměl způsobilost být rozhodcem,
+>
+> - d) rozhodčí nález nebyl usnesen většinou rozhodců,
+>
+> - e) straně nebyla poskytnuta možnost věc před rozhodci projednat,
+>
+> - f) rozhodčí nález odsuzuje stranu k plnění, které nebylo oprávněným žádáno, nebo k plnění podle tuzemského práva nemožnému či nedovolenému,
+>
+> - g) se zjistí, že jsou dány důvody, pro které lze v občanském soudním řízení žádat o obnovu řízení.4)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ec0670e06e5c38fc99f0 -->
+
 ### § 32 — Lhůta a odkladný účinek
 
 > **§ 32**
@@ -2575,6 +4139,54 @@ Soudní rozhodnutí o odložení je **diskreční** — soud zvažuje vyváženo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dc51907790aee22ef632 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 32
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Návrh na zrušení rozhodčího nálezu soudem musí být podán do tří měsíců od doručení rozhodčího nálezu té straně, která se zrušení rozhodčího nálezu domáhá, nestanoví-li tento zákon jinak.
+>
+> (2) Podání návrhu podle odstavce 1 nemá odkladný účinek na vykonatelnost rozhodčího nálezu. Na žádost povinného může však soud vykonatelnost rozhodčího nálezu odložit, jestliže by neprodleným výkonem rozhodčího nálezu hrozila závažná újma nebo jestliže je z návrhu na zrušení rozhodčího nálezu možné usuzovat, že je důvodný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dc51907790aee22ef632 -->
+
 ### § 33 — Prekluze při neuplatnění námitky v arbitráži
 
 > **§ 33**
@@ -2647,6 +4259,52 @@ Prekluze se **neuplatňuje** u důvodů písm. a), d), e), f), g) — tyto důvo
 **Typicky rozhodné důkazy / podklady:** rozhodčí doložka, výzva k vyjádření a doklad o jejím doručení, první vyjádření strany ve věci samé (časový bod prekluze), oznámení rozhodce o okolnostech podjatosti (u písm. c).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9d5aa0604b0e98989fb3 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 33
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Soud zamítne návrh na zrušení rozhodčího nálezu, který se opírá o důvody § 31 písm. b) nebo c), jestliže strana, která se domáhá zrušení rozhodčího nálezu, neuplatnila, ač mohla, takový důvod v rozhodčím řízení nejpozději, než začala jednat ve věci samé.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 31
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9d5aa0604b0e98989fb3 -->
 
 ### § 34 — Účinky zrušení nálezu
 
@@ -2722,6 +4380,54 @@ Důsledky:
 **Typicky rozhodné důkazy / podklady:** zrušující rozsudek s vymezením důvodu zrušení, rozhodčí doložka, návrh na pokračování / na pokračování v arbitráži, doklad o právní moci zrušujícího rozhodnutí (počátek 30denní lhůty).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=44dd1c038de4d1db47d2 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 34
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Zruší-li soud rozhodčí nález z důvodů uvedených v § 31 písm. a) nebo b), pokračuje k návrhu některé ze stran po právní moci rozsudku v jednání ve věci samé a tuto věc rozhodne. Věc již nelze projednat v rozhodčím řízení.
+>
+> (2) Zruší-li soud rozhodčí nález z důvodů uvedených v § 31 písm. c) až g), pokračuje se k návrhu některé ze stran v rozhodčím řízení na základě rozhodčí smlouvy. Nedohodnou-li se strany jinak, rozhodci zúčastnění na rozhodčím nálezu, který byl zrušen z důvodů uvedených v § 31 písm. c), jsou však z nového projednání a rozhodování vyloučeni. Nedohodnou-li se strany jinak, budou noví rozhodci jmenováni způsobem původně určeným v rozhodčí smlouvě nebo podpůrně podle ustanovení tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 31
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=44dd1c038de4d1db47d2 -->
 
 ### § 35 — Návrh na zastavení nařízeného výkonu
 
@@ -2813,6 +4519,62 @@ Pokud je rozhodčí nález **zrušen**, strany postupují podle § 34 — buď s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=db0ee4b0152536984904 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 35
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) I když nepodala návrh na zrušení rozhodčího nálezu soudem, může strana, proti níž byl soudem nařízen výkon rozhodčího nálezu, bez ohledu na lhůtu stanovenou v § 32 odst. 1, podat návrh na zastavení nařízeného výkonu rozhodnutí kromě důvodů uvedených ve zvláštním předpisu5) i tehdy, jestliže
+>
+> - a) rozhodčí nález je stižen některou vadou uvedenou v § 31 písm. a), d) nebo f),
+>
+> - b) strana, která musí mít zákonného zástupce, nebyla v řízení takovým zástupcem zastoupena a její jednání nebylo ani dodatečně schváleno,
+>
+> - c) ten, kdo vystupoval v rozhodčím řízení jménem strany nebo jejího zákonného zástupce, nebyl k tomu zmocněn a jeho jednání nebylo ani dodatečně schváleno.
+>
+> (2) Je-li podán návrh podle odstavce 1, soud provádějící výkon rozhodčího nálezu řízení o výkon rozhodnutí přeruší a uloží povinnému, aby do 30 dnů podal u příslušného soudu návrh na zrušení rozhodčího nálezu. Není-li v této lhůtě návrh podán, pokračuje soud v řízení o výkon rozhodčího nálezu.
+>
+> (3) Je-li rozhodčí nález zrušen, mohou pak strany postupovat obdobně podle [[#§ 34|§ 34]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32, § 31, § 34
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db0ee4b0152536984904 -->
+
 ## Část sedmá — Řízení před rozhodčí komisí spolku (§§ 40e–40k)
 
 > **Téma části:** Část sedmá obsahuje **zvláštní úpravu řízení před rozhodčí komisí spolku** podle § 265 občanského zákoníku (zákon č. 89/2012 Sb.). Tato část byla doplněna do ZRR novelou č. 89/2012 Sb. v souvislosti s rekodifikací občanského práva, aby procesně zaštítila institut rozhodčí komise zakotvený v novém OZ. Jde o **specializovaný mechanismus vnitrospolkového řešení sporů**: spolek může ve svých stanovách zřídit rozhodčí komisi, která rozhoduje sporné záležitosti vyplývající ze spolkové samosprávy (typicky vyloučení člena, neplatnost rozhodnutí orgánu spolku). Procesně se přiměřeně použije ZRR, ale s odchylkami stanovenými v této části. **Pozn.: Číslování paragrafů § 40e–40k odráží historický vývoj — Část pátá a šestá byly v různých novelizacích zrušeny, takže došlo k posunu paragrafů; současná „Část sedmá" je v textu zákona číslována jako sedmá z důvodu zachování legislativního číslování.**
@@ -2885,6 +4647,52 @@ Komise **nerozhoduje** vnější vztahy spolku (smluvní spory s třetími osoba
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a7a3240a34af71b8ab03 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 40e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Tohoto zákona se použije i na rozhodování sporných záležitostí náležejících do spolkové samosprávy v řízení před rozhodčí komisí spolku (dále jen „komise“) podle [[občanského zákoníku|občanského zákoníku]], ledaže je v této části stanoveno jinak. Na rozhodování před komisí se nepoužijí ustanovení o stálých rozhodčích soudech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a7a3240a34af71b8ab03 -->
+
 ### § 40f — Zahájení řízení a postup komise
 
 > **§ 40f**
@@ -2945,6 +4753,54 @@ Tato pružnost odráží specifickou povahu spolkové komise — spolek má pot�
 **Typicky rozhodné důkazy / podklady:** stanovy spolku (adresa komise, odkaz na vnitřní předpis), vnitřní předpis upravující postup, žaloba s dokladem o doručení, protokoly z řízení před komisí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ead4adf6d60099bffbcc generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 40f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Řízení před komisí je zahájeno dnem, kdy je žaloba doručena na adresu uvedenou ve stanovách spolku. Není-li taková adresa ve stanovách uvedena, doručuje se žaloba komisi na adresu sídla spolku.
+>
+> (2) Strany mají v řízení rovné postavení a musí jim být dána plná příležitost k uplatnění jejich práv. Stanovy, vnitřní předpis ve stanovách výslovně označený, nebo písemně uzavřená dohoda stran mohou odchylně od tohoto zákona upravit postup, kterým má komise vést řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ead4adf6d60099bffbcc -->
 
 ### § 40g — Usnášení a kvórum komise
 
@@ -3010,6 +4866,56 @@ Pokud stanovy umožňují členění komise na senáty, platí kvórum (alespoň
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2089ea66ccde4d00b651 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 40g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Komise může záležitost projednat a rozhodnout jen za přítomnosti většiny svých členů, nejméně však 3.
+>
+> (2) Klesne-li počet členů komise, kteří jsou způsobilí věc rozhodnout pod minimální počet členů vyžadovaný pro rozhodování tímto zákonem nebo stanovami, komise řízení zastaví; to nebrání soudu, aby věc rozhodl. Ustanovení [[#§ 9|§ 9]] a [[#§ 10|10]] se nepoužijí.
+>
+> (3) Člení-li se komise v souladu se stanovami na senáty a rozhoduje-li senát komise, platí odstavce 1 a [[#§ 2|2]] obdobně pro tento senát.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 10, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2089ea66ccde4d00b651 -->
+
 ### § 40h — Tříměsíční lhůta pro rozhodnutí
 
 > **§ 40h**
@@ -3068,6 +4974,52 @@ Tříměsíční lhůta odráží **specifický charakter** spolkových sporů �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6d2c697426ae536f837a generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 40h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Pokud komise ve lhůtě 3 měsíců nerozhodne ve věci samé, může strana uplatnit své právo u soudu. Stanovy, vnitřní předpis ve stanovách výslovně označený nebo písemně uzavřená dohoda stran mohou lhůtu podle věty první prodloužit, avšak ne déle, než na 9 měsíců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6d2c697426ae536f837a -->
+
 ### § 40i — Vyloučení člena komise
 
 > **§ 40i**
@@ -3121,6 +5073,52 @@ Tato úprava je výrazem **interní povahy** spolkového řízení — soud se z
 **Typicky rozhodné důkazy / podklady:** doklad o vztahu člena komise ke straně / osobám na věci zúčastněným, námitka podjatosti, rozhodnutí komise o (ne)vyloučení, složení komise a protokoly.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fa86056b862cd06af80a generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 40i
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Člen komise, u něhož vyšly najevo okolnosti uvedené v [[#§ 11|§ 11]], je povinen vyloučit se z projednávání věci. Nevyloučí-li se člen komise, rozhodne o návrhu strany na jeho vyloučení komise.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fa86056b862cd06af80a -->
 
 ### § 40j — Zrušení nálezu komise a zastavení výkonu
 
@@ -3188,6 +5186,54 @@ Procesní mechanismus podle § 35 odst. 1 písm. c/, d/ a § 35 odst. 2, 3 se po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2b5fe939aa477c4db0d1 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 40j
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) Soud na návrh strany zruší rozhodčí nález vydaný komisí i v případě, že komise rozhodovala spor ve zjevném rozporu s dobrými mravy nebo veřejným pořádkem. Ustanovení [[§ 242|§ 242]] [[občanského zákoníku|občanského zákoníku]] tím není dotčeno.
+>
+> (2) I když nepodala návrh na zrušení rozhodčího nálezu soudem, může strana, proti níž byl soudem nařízen výkon rozhodčího nálezu, bez ohledu na lhůtu stanovenou v § 32 odst. 1, podat návrh na zastavení nařízeného výkonu rozhodnutí, kromě důvodů uvedených ve zvláštním předpisu i v případě, že jsou dány důvody pro jeho zrušení podle § 31 písm. a) až f) nebo pokud jsou dány důvody pro jeho zrušení podle odstavce 1 a rozhodčí nález neobsahuje poučení o právu podat návrh na jeho zrušení soudu. Ustanovení § 35 odst. 1 písm. c) a d) a § 35 odst. 2 a [[#§ 3|3]] se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 242, § 32, § 31, § 35, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b5fe939aa477c4db0d1 -->
+
 ### § 40k — Použití pravidel pro řízení před soudem
 
 > **§ 40k**
@@ -3237,6 +5283,52 @@ Procesní mechanismus podle § 35 odst. 1 písm. c/, d/ a § 35 odst. 2, 3 se po
 **Typicky rozhodné důkazy / podklady:** nález komise (odůvodnění), návrh člena na zrušení, žádost o odklad vykonatelnosti, doklad o členství navrhovatele ve spolku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a15a50a45ba99ff645db generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 40k
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Na řízení před komisí se použijí i ustanovení § 25 odst. 2 věty druhé a § 32 odst. 3, jestliže návrh na zrušení rozhodčího nálezu podá člen spolku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25, § 32
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a15a50a45ba99ff645db -->
 
 ## Část osmá — Věcná a místní příslušnost soudů (§§ 41–44)
 
@@ -3316,6 +5408,52 @@ Pro „ostatní řízení" se příslušnost určí podle pravidla **„jako by 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=173cb13e1d49a86e24d4 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 41
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> K řízení o neplatnosti rozhodčí smlouvy a k řízení o zrušení rozhodčího nálezu podle části čtvrté tohoto zákona je v prvním stupni příslušný krajský soud. K ostatním řízením podle tohoto zákona je v prvním stupni příslušný soud, který by byl příslušný k řízení ve věci podle zvláštního předpisu,6) kdyby nebylo rozhodčí smlouvy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=173cb13e1d49a86e24d4 -->
+
 ### § 42 — Příslušnost soudu pro dožádání
 
 > **§ 42**
@@ -3379,6 +5517,54 @@ Pro úkony, které mají být provedeny **v cizině**, je příslušný okresní
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=196821ed6ec7bf286111 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> (1) K úkonům podle § 20 odst. 2 je dána věcná a místní příslušnost okresního soudu, v jehož obvodu má být požadovaný úkon proveden.
+>
+> (2) Má-li být úkon požadovaný podle odstavce 1 proveden v cizině, je dána věcná a místní příslušnost okresního soudu, v jehož obvodu je místo, kde se rozhodčí řízení koná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=196821ed6ec7bf286111 -->
+
 ### § 43 — Místní příslušnost obecně
 
 > **§ 43**
@@ -3434,6 +5620,52 @@ Třetí pravidlo zajišťuje, že **vždy bude existovat příslušný soud** �
 **Typicky rozhodné důkazy / podklady:** rozhodčí doložka (určení / neurčení místa), doklad o sídle/bydlišti navrhovatele a odpůrce, údaj o faktickém místě konání arbitráže, povaha řízení (§ 9 / § 12 odst. 2 vs. ostatní).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cb923a48ba67c9335ba1 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 43
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> K řízení podle tohoto zákona je místně příslušný soud, v jehož obvodu se koná nebo konalo rozhodčí řízení, je-li toto místo v tuzemsku. Jinak je místně příslušný soud, který by byl místně příslušný, kdyby nebylo rozhodčí smlouvy. Mimo to k řízení podle [[#§ 9|§ 9]] a § 12 odst. 2 je dána místní příslušnost soudu podle sídla nebo bydliště navrhovatele anebo odpůrce, jestliže nelze v tuzemsku zjistit místní příslušnost soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb923a48ba67c9335ba1 -->
 
 ### § 44 — Subsidiární použití OSŘ na soudní řízení
 
@@ -3492,6 +5724,52 @@ se **obdobně použijí ustanovení OSŘ** — tj. soud postupuje podle obecnýc
 **Typicky rozhodné důkazy / podklady:** rozhodnutí soudu prvního stupně, odvolání, navrhované důkazy, procesní úkony stran (pro posouzení koncentrace), rozhodčí nález a doložka (v meritorní rovině).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c6c1a857cceea8dc8ca4 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 44
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Nestanoví-li tento zákon jinak, použijí se pro řízení před soudem podle tohoto zákona obdobně ustanovení [[občanského soudního řádu|občanského soudního řádu]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6c1a857cceea8dc8ca4 -->
 
 ## Část devátá — Změna a doplnění občanského soudního řádu (§ 45)
 
@@ -3564,6 +5842,72 @@ Změny jsou již **dávno zakomponovány** do platného znění OSŘ — § 45 d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c107605c0b9f8531b626 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 45
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> [[Zákon č. 99/1963 Sb., občanský soudní řád|Zákon č. 99/1963 Sb., občanský soudní řád]], ve znění [[zákona č. 36/1967 Sb|zákona č. 36/1967 Sb.]], [[zákona č. 158/1969 Sb|zákona č. 158/1969 Sb.]], [[zákona č. 49/1973 Sb|zákona č. 49/1973 Sb.]], [[zákona č. 20/1975 Sb|zákona č. 20/1975 Sb.]], [[zákona č. 133/1982 Sb|zákona č. 133/1982 Sb.]], [[zákona č. 180/1990 Sb|zákona č. 180/1990 Sb.]], [[zákona č. 328/1991 Sb|zákona č. 328/1991 Sb.]], [[zákona č. 519/1991 Sb|zákona č. 519/1991 Sb.]], [[zákona č. 263/1992 Sb|zákona č. 263/1992 Sb.]], [[zákona České národní rady č. 24/1993 Sb|zákona České národní rady č. 24/1993 Sb.]], [[zákona č. 171/1993 Sb|zákona č. 171/1993 Sb.]], [[zákona č. 117/1994 Sb|zákona č. 117/1994 Sb.]] a [[zákona č. 152/1994 Sb|zákona č. 152/1994 Sb.]], se mění a doplňuje takto:
+>
+> - 1. V [[§ 9 odst. 3 písm. c) bod kk)|§ 9 odst. 3 písm. c) bod kk)]] včetně poznámky [[č. 23)|č. 23)]] se vypouští.
+>
+> - 2. V [[§ 36b odst. 1|§ 36b odst. 1]] se vypouští [[písmeno f)|písmeno f)]].
+>
+> - 3. V [[§ 88|§ 88]] se vypouští [[odstavec 2|odstavec 2]]; zároveň se zrušuje číslování odstavců.
+>
+> - 4. V [[§ 120 odst. 2|§ 120 odst. 2]] se za slova „o osvojení“ vkládají slova „v řízení o jmenování rozhodce nebo předsedajícího rozhodce“.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 36b, § 88, § 120
+
+##### Souvisící předpisy
+
+- zákon č. 99/1963 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 36/1967 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 158/1969 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 49/1973 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 20/1975 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 133/1982 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 180/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 328/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 519/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 263/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 171/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 117/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 152/1994 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c107605c0b9f8531b626 -->
+
 ## Část desátá — Ustanovení přechodná a závěrečná (§§ 46–50)
 
 > **Téma části:** Část desátá obsahuje **přechodná a závěrečná ustanovení** — pravidla pro řešení sporů zahájených před účinností zákona, vztah k mezinárodním smlouvám, derogaci dřívějších předpisů a stanovení účinnosti.
@@ -3619,6 +5963,52 @@ Toto pravidlo je dnes již **prakticky neaktuální** — všechny spory zaháje
 **Typicky rozhodné podklady:** datum zahájení původního řízení, doklad o (ne)pravomocném skončení k 1. 1. 1995, dřívější právní úprava (zákon č. 98/1963 Sb.).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1f607af789578e809044 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 46
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Spory o neplatnost rozhodčích smluv a o zrušení rozhodčích nálezů vydaných rozhodci na základě rozhodčí smlouvy, v nichž bylo zahájeno řízení a nebylo pravomocně rozhodnuto do dne nabytí účinnosti tohoto zákona, projednají a dokončí soudy příslušné k řízení do dne účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f607af789578e809044 -->
 
 ### § 47 — Přednost mezinárodní smlouvy
 
@@ -3694,6 +6084,52 @@ ZRR a NÚ 1958 spolupracují **doplňkově**:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e4ace23b028890975e27 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 47
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Ustanovení tohoto zákona se použije, jen pokud nestanoví něco jiného mezinárodní smlouva, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4ace23b028890975e27 -->
+
 ### § 48 — Přechodné ustanovení k rozhodčím smlouvám
 
 > **§ 48**
@@ -3745,6 +6181,52 @@ Toto pravidlo je dnes **prakticky bezvýznamné** — všechny rozhodčí smlouv
 **Typicky rozhodné podklady:** rozhodčí smlouva s datem uzavření, dřívější právní úprava (zákon č. 98/1963 Sb.), údaj o vzniku a zahájení sporu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=23f34ba3b74418d3f071 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 48
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Ustanovení tohoto zákona se použijí na případy, kdy rozhodčí smlouva byla uzavřena po nabytí účinnosti tohoto zákona. V ostatních případech se postupuje podle dosavadních předpisů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=23f34ba3b74418d3f071 -->
 
 ### § 49 — Derogace dřívějších předpisů
 
@@ -3803,6 +6285,60 @@ Toto pravidlo je dnes **prakticky bezvýznamné** — všechny rozhodčí smlouv
 **Typicky rozhodné podklady:** text § 49 ZRR, zřizovací zákony burzovních rozhodčích soudů, zrušený zákon č. 98/1963 Sb. (pro historickou rešerši), údaj o datu zahájení sporu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1c705dc79d79e5ddeab1 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 49
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Zrušují se:
+>
+> - 1. [[Zákon č. 98/1963 Sb., o rozhodčím řízení v mezinárodním obchodním styku a o výkonu rozhodčích nálezů|Zákon č. 98/1963 Sb., o rozhodčím řízení v mezinárodním obchodním styku a o výkonu rozhodčích nálezů]].
+>
+> - 2. [[§ 30 odst. 2|§ 30 odst. 2]], [[4|4]], [[5|5]] a [[6|6]] [[zákona č. 214/1992 Sb., o burze cenných papírů|zákona č. 214/1992 Sb., o burze cenných papírů]].
+>
+> - 3. [[§ 28 odst. 2|§ 28 odst. 2]], [[4|4]], [[5|5]], [[6|6]], [[7|7]] a [[8|8]] [[zákona č. 229/1992 Sb., o komoditních burzách|zákona č. 229/1992 Sb., o komoditních burzách]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30, § 28
+
+##### Souvisící předpisy
+
+- zákon č. 98/1963 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 214/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 229/1992 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c705dc79d79e5ddeab1 -->
 
 ### § 50 — Účinnost
 
@@ -3871,6 +6407,52 @@ Tato trojice podpisů reflektuje **legislativní akt** podle Ústavy ČR (čl. 5
 **Typicky rozhodné podklady:** text § 50 ZRR, datum vyhlášení ve Sbírce zákonů, rozhodčí smlouva s datem uzavření, údaj o zahájení sporu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a6d365ae483d823694e8 generator=2026-07-17.4 source_sha256=1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271 -->
+#### Revizní doplnění k § 50
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2024 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1994/216-1994 Zákon o rozhodčím řízení a o výkonu rozhodčích nálezů.md`; identifikátor verze: `SB-1994-00216_2024-01-01`; SHA-256: `1329a764d599da10832c3606680fa2e7672689c480c246f4abc6a5990be61271`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 1995.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a6d365ae483d823694e8 -->
 
 ## Závěr — souhrnný pohled na ZRR a jeho fungování v právním řádu ČR
 
